@@ -1,0 +1,11 @@
+# Main SiteMap menu for English part of this site
+- title: Films
+  url: /en/films
+  nav:
+    - title: Screenshots
+      url: /en/films/screenshots
+- title: Music
+  url: /en/music
+  nav:
+    - title: Classic
+      url: /en/music/classic

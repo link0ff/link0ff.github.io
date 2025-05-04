@@ -1,0 +1,19 @@
+<ul class="flex flex-col gap-1{% if include.level == 0 %}"{% else %}pl-4 mt-1" x-show="open" x-transition{% endif %}>
+{%- for item in include.nav -%}
+  {% if item.nav %}
+  <li x-data="{ open: {% if page.url contains item.url %}true{% else %}false{% endif %} }" class="rounded overflow-hidden">
+    <div @click.stop="open = !open"
+      class="flex justify-between items-center p-2 hover:bg-gray-200 dark:hover:bg-gray-800 cursor-pointer {% if item.url == page.url %} bg-gray-200 dark:bg-gray-800{% endif %}">
+      <span>{{ item.title }}</span>
+      <svg :class="open ? 'transform rotate-90' : ''" class="w-5 h-5 transition-transform duration-200">
+        <use href="#arrow-icon"></use>
+      </svg>
+    </div>
+    {%- assign level = level | plus: 1 -%}
+    {%- include nav.html nav=item.nav level=level -%}
+  </li>
+  {%- else -%}
+  <li><a href="{{ item.url | relative_url }}" class="block p-2 hover:bg-gray-200 dark:hover:bg-gray-800 rounded {% if item.url == page.url %} bg-gray-200 dark:bg-gray-800{% endif %}">{{ item.title }}</a></li>
+  {%- endif -%}
+{%- endfor -%}
+</ul>

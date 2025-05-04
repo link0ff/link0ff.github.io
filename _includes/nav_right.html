@@ -1,0 +1,8 @@
+<nav>
+  <ul class="flex flex-col gap-2">
+  {% include toc.html %}
+  {%- for item in page.contents -%}
+    <li><a href="#{{ item.id }}" class="block hover:bg-gray-200 dark:hover:bg-gray-800 rounded">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+</nav>

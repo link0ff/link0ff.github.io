@@ -1,0 +1,20 @@
+<div class="bg-white dark:text-white mt-4 rounded-lg shadow-md dark:shadow-2xl dark:bg-[#28282B]">
+  <div class="flex items-center justify-between px-4 py-2">
+    <div class="flex items-center">
+      <div>
+        {%- if include.clickable -%}
+        <div class="font-bold cursor-pointer"><a href="{{ include.page.url }}">{{ include.page.title }}</a></div>
+        {% else %}
+        <div class="font-bold">{{ include.page.title }}</div>
+        {% endif %}
+        <span class="text-sm text-gray-500 dark:text-gray-400">{{ include.page.time }}</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="text-justify px-4 py-2 m-auto">
+    {{ include.content }}
+  </div>
+
+  <div class="py-2 px-4"></div>
+</div>

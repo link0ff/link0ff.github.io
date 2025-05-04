@@ -1,0 +1,38 @@
+title: linkov.net
+author: Juri Linkov
+email: juri@linkov.net
+logo: /logo.png
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://linkov.net" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  link0ff
+repository: https://github.com/link0ff/link0ff.github.io
+
+permalink: /:title # without :output_ext .html
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      lang: en
+      layout: card
+  - scope:
+      path: en
+    values:
+      lang: en
+      nav: "nav_en"
+      nav_title: "Sitemap"
+  - scope:
+      path: ru
+    values:
+      lang: ru
+      nav: "nav_ru"
+      nav_title: "Карта сайта"
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# sass:
+#   style: compressed

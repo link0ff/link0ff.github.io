@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="bg-[#f7f7f7] dark:bg-[#18191a]" style="opacity: 1;"
+     x-data="{ leftSidebarOpen: false, rightSidebarOpen: false }"
+     @keydown.escape="leftSidebarOpen = false; rightSidebarOpen = false">
+  {% include header.html %}
+
+  <div class="flex justify-center">
+    {% include sidebar_left.html %}
+
+    <main class="w-full lg:w-2/3 xl:w-2/5 pt-20 px-2">
+      {{ content }}
+      <div class="py-2"></div>
+    </main>
+
+    {% include sidebar_right.html %}
+  </div>
+
+  <!-- Overlay to close sidebars when clicking outside on mobile -->
+  <div @click="leftSidebarOpen = false; rightSidebarOpen = false" 
+        class="fixed inset-0 bg-black/50 z-0 xl:hidden" 
+       :class="(leftSidebarOpen || rightSidebarOpen) ? 'block' : 'hidden'"></div>
+</div>

@@ -1,0 +1,11 @@
+# Main SiteMap menu for Russian part of this site
+- title: Фильмы
+  url: /ru/films
+  nav:
+    - title: Кадры из фильмов
+      url: /ru/films/screenshots
+- title: Музыка
+  url: /ru/music
+  nav:
+    - title: Классика
+      url: /ru/music/classic

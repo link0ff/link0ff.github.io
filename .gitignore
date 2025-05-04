@@ -1,4 +1,20 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+# Ruby
+Gemfile.lock
+.ruby-version
+
+# Jekyll
+/.sass-cache
+/.jekyll-cache
 .jekyll-metadata
+/_site
+
+# Tailwind style compiler
+/node_modules
+/package.json
+/package-lock.json
+
+# ImageMagick
+.convert
+
+# Emacs
+.dir-locals-2.el

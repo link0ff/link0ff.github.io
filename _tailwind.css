@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    line-height: initial;
+    color: black;
+    background-color: #f7f7f7;
+  }
+  @media (prefers-color-scheme: dark) {
+    html {
+      color: white;
+      background-color: #18191a;
+    }
+  }
+  p {
+    margin: 1em 0;
+  }
+  p:first-child {
+    margin-top: 0;
+  }
+  p:last-child {
+    margin-bottom: 0;
+  }
+  p a {
+    -webkit-text-decoration: revert;
+    text-decoration: revert;
+  }
+  img {
+    margin: auto;
+  }
+}
