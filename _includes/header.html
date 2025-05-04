@@ -8,9 +8,19 @@
     <img src="/logo.png" alt="linkov.net logo" class="w-8 h-auto rounded-full mr-2" />
     <span class="text-xl font-bold">linkov.net</span>
   </a>
-  <button @click="rightSidebarOpen = !rightSidebarOpen" class="focus:outline-none xl:hidden cursor-pointer">
-    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v.01M12 12v.01M12 19v.01M12 6a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2z" />
-    </svg>
-  </button>
+  <div class="flex items-center">
+    {%- if page.translations -%}
+    <ul class="focus:outline-none mr-4 flex">
+      <li><b>{{ page.lang }}</b></li>
+      {%- for tr in page.translations -%}
+      <li class="ml-1">| <a href="{{ tr[1] }}">{{ tr[0] }}</a></li>
+      {%- endfor -%}
+    </ul>
+    {%- endif -%}
+    <button @click="rightSidebarOpen = !rightSidebarOpen" class="focus:outline-none xl:hidden cursor-pointer">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v.01M12 12v.01M12 19v.01M12 6a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2z" />
+      </svg>
+    </button>
+  </div>
 </header>
