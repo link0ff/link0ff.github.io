@@ -27,6 +27,18 @@ defaults:
       lang: ru
       nav: "nav_ru"
       nav_title: "Карта сайта"
+  - scope:
+      path: en/music
+    values:
+      ytplayer: true
+      styles:
+        - /files/music/style.css
+  # - scope:
+  #     path: ru/music
+  #   values:
+  #     ytplayer: true
+  #     styles:
+  #       - /files/music/style.css
 
 plugins:
   - jekyll-redirect-from

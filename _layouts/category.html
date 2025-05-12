@@ -3,15 +3,13 @@ layout: page
 ---
 {%- include card.html page=page content=content clickable=false -%}
 
-<ul>
 {%- assign dir = page.url | append: "/" -%}
 {%- assign pages = site.pages | where: "dir", dir -%}
 {%- if page.sortby -%}
 {%- assign pages = pages | sort: page.sortby -%}
 {%- endif -%}
 {% for p in pages %}
-<li>
-{%- assign c = p.content | markdownify -%}
+{%- assign c = p.content -%}
 {%- if c contains "<!-- lj-cut -->" -%}
 {%- assign parts = c | split: "<!-- lj-cut -->" -%}
 {%- assign c = parts[0] -%}
@@ -24,6 +22,4 @@ layout: page
 {%- assign c = c | append: '…)</a></p>' -%}
 {%- endif -%}
 {%- include card.html page=p content=c clickable=true -%}
-</li>
 {% endfor %}
-</ul>
