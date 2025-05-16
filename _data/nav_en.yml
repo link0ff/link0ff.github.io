@@ -7,7 +7,7 @@
 - title: Music
   url: /en/music
   nav:
-    - title: Classic
-      url: /en/music/classic
+    - title: Clapping
+      url: /en/music/claps
     - title: Modern
       url: /en/music/modern

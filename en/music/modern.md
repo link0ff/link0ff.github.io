@@ -7,4 +7,4 @@ of remarkable contemporary songs and compositions.
 
 This list was created to help ensure you don't miss any impactful songs from the past.
 
-You can click on the song name to play it in the left sidebar.
+You can click on any song title to play it in the left sidebar.
