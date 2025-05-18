@@ -1,7 +1,7 @@
 ---
 title: A
 ---
-# **[ABBA](https://en.wikipedia.org/wiki/ABBA){:target="_blank"}**
+**[ABBA](https://en.wikipedia.org/wiki/ABBA){:target="_blank"}**
 - {% include ytplay.html id="GHddJnNo_BQ" t="Angeleyes" %}
 - {% include ytplay.html id="Vy-jfDDCGXU" t="Another Town, Another Train" %}
 - {% include ytplay.html id="z0QGBBYEYqE" t="Arrival" %}
@@ -54,7 +54,7 @@ title: A
 - {% include ytplay.html id="za05HBtGsgU" t="Voulez-Vous" %}
 - {% include ytplay.html id="Sj_9CiNkkn4" t="Waterloo" %}
 
-# **ABBA (Spanish versions)**
+**ABBA (Spanish versions)**
 - {% include ytplay.html id="-BHLwSVQlsw" t="Al Andar" %}
 - {% include ytplay.html id="e5GKZgsgi4g" t="Al Andar (Move On)" %}
 - {% include ytplay.html id="2_O00E6Nq1A" t="Chiquitita (Spanish version)" %}
@@ -67,17 +67,17 @@ title: A
 - {% include ytplay.html id="xFrGuyw1V8s" t="La Reina Del Baile (Reina Danzante, Dancing Queen)" %}
 - {% include ytplay.html id="xw9huGNsCjI" t="Mamma Mia (Spanish version)" %}
 
-# **[ATB](https://en.wikipedia.org/wiki/ATB_(DJ)){:target="_blank"}**
+**[ATB](https://en.wikipedia.org/wiki/ATB_(DJ)){:target="_blank"}**
 - {% include ytplay.html id="XK-LlnnQ71I" t="9 PM (Till I Come)" %}
 
-# **[Accept](https://en.wikipedia.org/wiki/Accept_(band)){:target="_blank"}**
+**[Accept](https://en.wikipedia.org/wiki/Accept_(band)){:target="_blank"}**
 - {% include ytplay.html id="udH1_Ta2GP4" t="Amamos La Vida" %}
 - {% include ytplay.html id="0_lT1AAKdX0" t="Can't Stand The Night" %}
 - {% include ytplay.html id="g1HOE3FIQ7w" t="Metal Heart" %}
 - {% include ytplay.html id="U9hiBw4c2q0" t="Seawinds" %}
 - {% include ytplay.html id="LOiZ-q20KNc" t="The King" %}
 
-# **[Ace of Base](https://en.wikipedia.org/wiki/Ace_of_Base){:target="_blank"}**
+**[Ace of Base](https://en.wikipedia.org/wiki/Ace_of_Base){:target="_blank"}**
 - {% include ytplay.html id="d73tiBBzvFM" t="All that she wants" %}
 - {% include ytplay.html id="wh-07BzfgYY" t="Beautiful life" %}
 - {% include ytplay.html id="B_gs4gCyGKs" t="Don't Turn Around" %}
@@ -87,10 +87,10 @@ title: A
 - {% include ytplay.html id="iqu132vTl5Y" t="The sign" %}
 - {% include ytplay.html id="qoybSNHMtMY" t="Wheel Of Fortune" %}
 
-# **[Adele](https://en.wikipedia.org/wiki/Adele){:target="_blank"}**
+**[Adele](https://en.wikipedia.org/wiki/Adele){:target="_blank"}**
 - {% include ytplay.html id="DeumyOzKqgI" t="Skyfall" %}
 
-# **[Adriano Celentano](https://en.wikipedia.org/wiki/Adriano_Celentano){:target="_blank"}**
+**[Adriano Celentano](https://en.wikipedia.org/wiki/Adriano_Celentano){:target="_blank"}**
 - {% include ytplay.html id="W1jkIJHPngw" t="Amore No" %}
 - {% include ytplay.html id="HCyzGuipTd4" t="Azzurro" %}
 - {% include ytplay.html id="78NELYY11Vw" t="Confessa" %}
@@ -102,7 +102,7 @@ title: A
 - {% include ytplay.html id="2AE8JZUEMSs" t="Suzanna" %}
 - {% include ytplay.html id="Rl7uzWhPuSg" t="Svalutation" %}
 
-# **[Aerosmith](https://en.wikipedia.org/wiki/Aerosmith){:target="_blank"}**
+**[Aerosmith](https://en.wikipedia.org/wiki/Aerosmith){:target="_blank"}**
 - {% include ytplay.html id="NMNgbISmF4I" t="Crazy" %}
 - {% include ytplay.html id="qfNmyxV2Ncw" t="Cryin" %}
 - {% include ytplay.html id="89dGC8de0CA" t="Dream On" %}
@@ -112,48 +112,48 @@ title: A
 - {% include ytplay.html id="4c8O2n1Gfto" t="Walk This Way" %}
 - {% include ytplay.html id="4B_UYYPb-Gk" t="Walk This Way (Run-DMC with Tyler, Perry)" %}
 
-# **[Afric Simone](https://en.wikipedia.org/wiki/Afric_Simone){:target="_blank"}**
+**[Afric Simone](https://en.wikipedia.org/wiki/Afric_Simone){:target="_blank"}**
 - {% include ytplay.html id="IeX_eRBSgxI" t="Hafanana" %}
 - {% include ytplay.html id="ChDzMCiuw3U" t="Todo pasara Maria" %}
 
-# **[Alain Barriere](https://en.wikipedia.org/wiki/Alain_Barrière){:target="_blank"} & [Noelle Cordier](https://en.wikipedia.org/wiki/Noëlle_Cordier){:target="_blank"}**
+**[Alain Barriere](https://en.wikipedia.org/wiki/Alain_Barrière){:target="_blank"} & [Noelle Cordier](https://en.wikipedia.org/wiki/Noëlle_Cordier){:target="_blank"}**
 - {% include ytplay.html id="O0FV3JAHMKo" t="Tu t'en vas" %}
 
-# **[Alanis Morissette](https://en.wikipedia.org/wiki/Alanis_Morissette){:target="_blank"}**
+**[Alanis Morissette](https://en.wikipedia.org/wiki/Alanis_Morissette){:target="_blank"}**
 - {% include ytplay.html id="Jne9t8sHpUc" t="Ironic" %}
 
-# **[Alannah Myles](https://en.wikipedia.org/wiki/Alannah_Myles){:target="_blank"}**
+**[Alannah Myles](https://en.wikipedia.org/wiki/Alannah_Myles){:target="_blank"}**
 - {% include ytplay.html id="tT4d1LQy4es" t="Black Velvet" %}
 
-# **[Albert Hammond](https://en.wikipedia.org/wiki/Albert_Hammond){:target="_blank"}**
+**[Albert Hammond](https://en.wikipedia.org/wiki/Albert_Hammond){:target="_blank"}**
 - {% include ytplay.html id="f2zoq2uI0Fc" t="The Free Electric Band" %}
 
-# **[Alcazar](https://en.wikipedia.org/wiki/Alcazar_(group)){:target="_blank"}**
+**[Alcazar](https://en.wikipedia.org/wiki/Alcazar_(group)){:target="_blank"}**
 - {% include ytplay.html id="7CiOWcUVGJM" t="Crying At The Discoteque" %}
 - {% include ytplay.html id="PmVNElBGuj4" t="Crying At The Discoteque (Long version)" %}
 
-# **[Alexander Rybak](https://en.wikipedia.org/wiki/Alexander_Rybak){:target="_blank"}**
+**[Alexander Rybak](https://en.wikipedia.org/wiki/Alexander_Rybak){:target="_blank"}**
 - {% include ytplay.html id="WXwgZL4zx9o" t="Fairytale (Eurovision-2009, Norway)" %}
 
-# **[Alice Cooper](https://en.wikipedia.org/wiki/Alice_Cooper){:target="_blank"}**
+**[Alice Cooper](https://en.wikipedia.org/wiki/Alice_Cooper){:target="_blank"}**
 - {% include ytplay.html id="Qq4j1LtCdww" t="Poison" %}
 
-# **[All Saints](https://en.wikipedia.org/wiki/All_Saints_(group)){:target="_blank"}**
+**[All Saints](https://en.wikipedia.org/wiki/All_Saints_(group)){:target="_blank"}**
 - {% include ytplay.html id="CkXsYjSLbKA" t="Lady Marmalade" %}
 
-# **[Alphaville](https://en.wikipedia.org/wiki/Alphaville_(band)){:target="_blank"}**
+**[Alphaville](https://en.wikipedia.org/wiki/Alphaville_(band)){:target="_blank"}**
 - {% include ytplay.html id="tl6u2NASUzU" t="Big in Japan" %}
 - {% include ytplay.html id="-tmY1GEH3_Y" t="Dance With Me" %}
 - {% include ytplay.html id="YHRvDo8rUoQ" t="Forever Young" %}
 - {% include ytplay.html id="sUz2DK-ucWc" t="Sounds Like A Melody" %}
 
-# **[Al Bano & Romina Power](https://en.wikipedia.org/wiki/Al_Bano_and_Romina_Power){:target="_blank"}**
+**[Al Bano & Romina Power](https://en.wikipedia.org/wiki/Al_Bano_and_Romina_Power){:target="_blank"}**
 - {% include ytplay.html id="9PZGRJrLerI" t="Ci Sara" %}
 - {% include ytplay.html id="xUj-lfx6vbo" t="Felicita" %}
 - {% include ytplay.html id="MDDJhLlcgWA" t="Il Balo Del Qua Qua" %}
 - {% include ytplay.html id="YTbLPvYBK7E" t="Sharazan" %}
 
-# **[Amanda Lear](https://en.wikipedia.org/wiki/Amanda_Lear){:target="_blank"}**
+**[Amanda Lear](https://en.wikipedia.org/wiki/Amanda_Lear){:target="_blank"}**
 - {% include ytplay.html id="3LQAeZCoqNE" t="Black Holes" %}
 - {% include ytplay.html id="l8Iew21qL1E" t="Diamonds" %}
 - {% include ytplay.html id="b9YyPIiT2pM" t="Follow Me" %}
@@ -166,27 +166,27 @@ title: A
 - {% include ytplay.html id="ATgFUHI2EgA" t="The Lady in Black" %}
 - {% include ytplay.html id="Ccjm7cFOY1M" t="Tomorrow" %}
 
-# **[Amy Grant](https://en.wikipedia.org/wiki/Amy_Grant){:target="_blank"}**
+**[Amy Grant](https://en.wikipedia.org/wiki/Amy_Grant){:target="_blank"}**
 - {% include ytplay.html id="vMXuuYnoRdI" t="Baby Baby" %}
 
-# **[Amy Winehouse](https://en.wikipedia.org/wiki/Amy_Winehouse){:target="_blank"}**
+**[Amy Winehouse](https://en.wikipedia.org/wiki/Amy_Winehouse){:target="_blank"}**
 - {% include ytplay.html id="TJAfLE39ZZ8" t="Back To Black" %}
 - {% include ytplay.html id="KUmZp8pR1uc" t="Rehab" %}
 - {% include ytplay.html id="b-I2s5zRbHg" t="You Know Im No Good" %}
 
-# **[Anastacia](https://en.wikipedia.org/wiki/Anastacia){:target="_blank"}**
+**[Anastacia](https://en.wikipedia.org/wiki/Anastacia){:target="_blank"}**
 - {% include ytplay.html id="9iUTRUovNb0" t="Paid My Dues" %}
 
-# **[Andreas Johnson](https://en.wikipedia.org/wiki/Andreas_Johnson){:target="_blank"}**
+**[Andreas Johnson](https://en.wikipedia.org/wiki/Andreas_Johnson){:target="_blank"}**
 - {% include ytplay.html id="pzQ82Ny1ToI" t="Glorious" %}
 
-# **[Andrea Bocelli](https://en.wikipedia.org/wiki/Andrea_Bocelli){:target="_blank"}**
+**[Andrea Bocelli](https://en.wikipedia.org/wiki/Andrea_Bocelli){:target="_blank"}**
 - {% include ytplay.html id="fTxcrjBGves" t="Besame Mucho" %}
 
-# **[Andrea Bocelli](https://en.wikipedia.org/wiki/Andrea_Bocelli){:target="_blank"} & [Sarah Brightman](https://en.wikipedia.org/wiki/Sarah_Brightman){:target="_blank"}**
+**[Andrea Bocelli](https://en.wikipedia.org/wiki/Andrea_Bocelli){:target="_blank"} & [Sarah Brightman](https://en.wikipedia.org/wiki/Sarah_Brightman){:target="_blank"}**
 - {% include ytplay.html id="4L_yCwFD6Jo" t="Time To Say Goodbye" %}
 
-# **[Andrew Lloyd Webber](https://en.wikipedia.org/wiki/Andrew_Lloyd_Webber){:target="_blank"}**
+**[Andrew Lloyd Webber](https://en.wikipedia.org/wiki/Andrew_Lloyd_Webber){:target="_blank"}**
 - {% include ytplay.html id="ogwF33e_O_I" t="Angel Of Music" %}
 - {% include ytplay.html id="pX0rj6fpBMw" t="Entracte" %}
 - {% include ytplay.html id="FmSZW_pkgvM" t="Little Lotte The Mirror (Angel Of Music)" %}
@@ -194,24 +194,24 @@ title: A
 - {% include ytplay.html id="G2zxzaWgVRA" t="The Phantom Of The Opera" %}
 - {% include ytplay.html id="6FpRjVPMOoM" t="The Point of No Return" %}
 
-# **[Andy Williams](https://en.wikipedia.org/wiki/Andy_Williams){:target="_blank"}**
+**[Andy Williams](https://en.wikipedia.org/wiki/Andy_Williams){:target="_blank"}**
 - {% include ytplay.html id="PQBW6G0hSrs" t="Love Theme From The Godfather (Speak Softly)" %}
 - {% include ytplay.html id="cpu22VEdRRM" t="Where Do I Begin (Theme from Love Story)" %}
 
-# **[Aneka](https://en.wikipedia.org/wiki/Aneka){:target="_blank"}**
+**[Aneka](https://en.wikipedia.org/wiki/Aneka){:target="_blank"}**
 - {% include ytplay.html id="YyTruRHZsFQ" t="Japanese Boy" %}
 - {% include ytplay.html id="N52B7b1HmUU" t="Japanese Boy (Long Version)" %}
 
-# **[Animotion](https://en.wikipedia.org/wiki/Animotion){:target="_blank"}**
+**[Animotion](https://en.wikipedia.org/wiki/Animotion){:target="_blank"}**
 - {% include ytplay.html id="zefaQgPqqac" t="I Engineer" %}
 
-# **[Anita Ward](https://en.wikipedia.org/wiki/Anita_Ward){:target="_blank"}**
+**[Anita Ward](https://en.wikipedia.org/wiki/Anita_Ward){:target="_blank"}**
 - {% include ytplay.html id="Dp11DjaUc5A" t="Ring My Bell" %}
 
-# **[Ankie Bagger](https://en.wikipedia.org/wiki/Ankie_Bagger){:target="_blank"}**
+**[Ankie Bagger](https://en.wikipedia.org/wiki/Ankie_Bagger){:target="_blank"}**
 - {% include ytplay.html id="fsWAIaotx3k" t="Where Were You Last Night" %}
 
-# **[Arabesque](https://en.wikipedia.org/wiki/Arabesque_(group)){:target="_blank"}**
+**[Arabesque](https://en.wikipedia.org/wiki/Arabesque_(group)){:target="_blank"}**
 - {% include ytplay.html id="JFUMCFZONAE" t="Born To Reggae" %}
 - {% include ytplay.html id="hLfW5jiRHaU" t="Fools Paradis" %}
 - {% include ytplay.html id="WqoYDzB2vDE" t="In For A Penny, In For A Pound" %}
@@ -220,13 +220,13 @@ title: A
 - {% include ytplay.html id="1wYgvlhQBJ8" t="The End Of The Show" %}
 - {% include ytplay.html id="MidApgwKpyg" t="Touch And Go" %}
 
-# **[Armin van Buuren](https://en.wikipedia.org/wiki/Armin_van_Buuren){:target="_blank"} feat. [Jaren](https://en.wikipedia.org/wiki/Jaren_Cerf){:target="_blank"}**
+**[Armin van Buuren](https://en.wikipedia.org/wiki/Armin_van_Buuren){:target="_blank"} feat. [Jaren](https://en.wikipedia.org/wiki/Jaren_Cerf){:target="_blank"}**
 - {% include ytplay.html id="eyUfJVqMtO0" t="Unforgivable (Extended Mix)" %}
 
-# **[Armin van Buuren](https://en.wikipedia.org/wiki/Armin_van_Buuren){:target="_blank"} feat. [Sharon den Adel](https://en.wikipedia.org/wiki/Sharon_den_Adel){:target="_blank"}**
+**[Armin van Buuren](https://en.wikipedia.org/wiki/Armin_van_Buuren){:target="_blank"} feat. [Sharon den Adel](https://en.wikipedia.org/wiki/Sharon_den_Adel){:target="_blank"}**
 - {% include ytplay.html id="TxvpctgU_s8" t="In and Out of Love" %}
 
-# **[Army Of Lovers](https://en.wikipedia.org/wiki/Army_Of_Lovers){:target="_blank"}**
+**[Army Of Lovers](https://en.wikipedia.org/wiki/Army_Of_Lovers){:target="_blank"}**
 - {% include ytplay.html id="cUo0YkLyrjU" t="Carry My Urn To Ukraine" %}
 - {% include ytplay.html id="di18hTFTwIw" t="Crucified" %}
 - {% include ytplay.html id="2ZM6gVXXNCI" t="Israelism" %}
@@ -236,26 +236,26 @@ title: A
 - {% include ytplay.html id="6Eo_2nVSO2Q" t="Sexual Revolution" %}
 - {% include ytplay.html id="GNC7YnceyuY" t="Shine Like A Star" %}
 
-# **[Ashford & Simpson](https://en.wikipedia.org/wiki/Ashford_&_Simpson){:target="_blank"}**
+**[Ashford & Simpson](https://en.wikipedia.org/wiki/Ashford_&_Simpson){:target="_blank"}**
 - {% include ytplay.html id="w3PoTnkLfxE" t="Solid" %}
 
-# **[Astrud Gilberto](https://en.wikipedia.org/wiki/Astrud_Gilberto){:target="_blank"}**
+**[Astrud Gilberto](https://en.wikipedia.org/wiki/Astrud_Gilberto){:target="_blank"}**
 - {% include ytplay.html id="sVdaFQhS86E" t="The Girl From Ipanema" %}
 
-# **[Aswad](https://en.wikipedia.org/wiki/Aswad){:target="_blank"}**
+**[Aswad](https://en.wikipedia.org/wiki/Aswad){:target="_blank"}**
 - {% include ytplay.html id="IIw3BtSPHtI" t="Shine" %}
 
-# **[A Touch of Class](https://en.wikipedia.org/wiki/A_Touch_of_Class_(group)){:target="_blank"}**
+**[A Touch of Class](https://en.wikipedia.org/wiki/A_Touch_of_Class_(group)){:target="_blank"}**
 - {% include ytplay.html id="Se237UXFKlQ" t="Around The World (La La La La La)" %}
 
-# **[Avril Lavigne](https://en.wikipedia.org/wiki/Avril_Lavigne){:target="_blank"}**
+**[Avril Lavigne](https://en.wikipedia.org/wiki/Avril_Lavigne){:target="_blank"}**
 - {% include ytplay.html id="5NPBIwQyPWE" t="Complicated" %}
 
-# **[A La Carte](https://en.wikipedia.org/wiki/A_La_Carte_(group)){:target="_blank"}**
+**[A La Carte](https://en.wikipedia.org/wiki/A_La_Carte_(group)){:target="_blank"}**
 - {% include ytplay.html id="0lKBq3v0b_E" t="Do Wah Diddy Diddy" %}
 - {% include ytplay.html id="T9vxPZr_qR0" t="Ring Me Honey" %}
 
-# **[A-Ha](https://en.wikipedia.org/wiki/A-Ha){:target="_blank"}**
+**[A-Ha](https://en.wikipedia.org/wiki/A-Ha){:target="_blank"}**
 - {% include ytplay.html id="h-WPexVEujg" t="Crying In The Rain" %}
 - {% include ytplay.html id="s6VaeFCxta8" t="Hunting High And Low" %}
 - {% include ytplay.html id="djV11Xbc914" t="Take on Me" %}

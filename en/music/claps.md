@@ -12,59 +12,59 @@ Below is an alphabetical list of some well-known songs with claps.
 You can click on any song title to play it in the left sidebar.
 
 <!--
-# **Boney M**
+**Boney M**
 - {% include ytplay.html id="AGzz4HQZ_Zg" t="King of the Road" %}
 -->
 
-# **Boston**
+**Boston**
 - {% include ytplay.html id="t4QK8RxCAwo" t="More Than a Feeling" %}
 
-# **Eddie Calvert**
+**Eddie Calvert**
 - {% include ytplay.html id="d9SFtDsai3w" t="Mistral" %}
 
-# **Fantastique**
+**Fantastique**
 - {% include ytplay.html id="U5a5ifh-qD8" t="Maria No Mas" %}
 
-# **Five Letters**
+**Five Letters**
 - {% include ytplay.html id="m_RddHOwX2w" t="Crazy Man (Part2 Aliluiya)" %}
 
-# **Frankie Valli and the Four Seasons**
+**Frankie Valli and the Four Seasons**
 - {% include ytplay.html id="LcJm1pOswfM" t="Can't Take My Eyes Off You" %}
 
-# **James Last**
+**James Last**
 - {% include ytplay.html id="N1j6-uxkCVw" t="Hava Nagilah" %}
 - {% include ytplay.html id="yMVgeryha58" t="Ra-Ta-Ta" %} <!-- (Что? Где? Когда?) -->
 
-# **Les Humphries Singers**
+**Les Humphries Singers**
 - {% include ytplay.html id="8Tw36hzJC1c" t="Mama Loo (Disco 1973)" %}
 
-# **Little Eva**
+**Little Eva**
 - {% include ytplay.html id="eKpVQm41f8Y" t="Loco-motion" %}
 
-# **Middle of the Road**
+**Middle of the Road**
 - {% include ytplay.html id="HSNSTerj2Kc" t="Chirpy Chirpy Cheep Cheep" %}
 
-# **Paul Mauriat**
+**Paul Mauriat**
 - {% include ytplay.html id="Ev7SXzRLUjU" t="Penelope (Disco Version)" %}
 - {% include ytplay.html id="tLVtLndzUw8" t="The bird and the child" %} <!-- «Этот мир придуман не нами» -->
 
-# **Queen**
+**Queen**
 - {% include ytplay.html id="o-0ygW-B_gI" t="Radio Ga Ga (Live Aid, Wembley London, 1985)" %}
 
-# **Richard Carter**
+**Richard Carter**
 - {% include ytplay.html id="C916zkYcDeQ" t="Le Monde (Talk to Me)" %}
 
-# **Santa Esmeralda**
+**Santa Esmeralda**
 - {% include ytplay.html id="8FMdaDEmcDg" t="Don't let me be misunderstood" %}
 
-# **Tears for Fears**
+**Tears for Fears**
 - {% include ytplay.html id="VAtGOESO7W8" t="Sowing The Seeds Of Love" %}
 
-# **The Alan Parsons Project**
+**The Alan Parsons Project**
 - {% include ytplay.html id="_OhOHe98ePE" t="Hawkeye" %}
 
-# **The Beatles**
+**The Beatles**
 - {% include ytplay.html id="ipADNlW7yBM" t="I Want To Hold Your Hand" %}
 
-# **The Rolling Stones**
+**The Rolling Stones**
 - {% include ytplay.html id="7JR10AThY8M" t="Start Me Up" %}

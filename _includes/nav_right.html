@@ -1,8 +1,14 @@
 <nav>
   <ul class="flex flex-col gap-2">
-  {% include toc.html %}
-  {%- for item in page.contents -%}
-    <li><a href="#{{ item.id }}" class="block hover:bg-gray-200 dark:hover:bg-gray-800 rounded">{{ item.title }}</a></li>
-  {% endfor %}
+  {%- if page.layout == "category" -%}
+  {%- assign dir = page.url | append: "/" -%}
+  {%- assign pages = site.pages | where: "dir", dir -%}
+  {%- if page.sortby -%}
+  {%- assign pages = pages | sort: page.sortby -%}
+  {%- endif -%}
+  {% for p in pages %}
+    <li><a href="#{{ p.title | slugify }}" class="block hover:bg-gray-200 dark:hover:bg-gray-800 rounded">{{ p.title }}</a></li>
+  {%- endfor -%}
+  {%- endif -%}
   </ul>
 </nav>
