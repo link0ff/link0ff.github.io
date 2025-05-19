@@ -15,10 +15,6 @@ defaults:
     values:
       lang: en
       layout: card
-  - scope:
-      path: en
-    values:
-      lang: en
       nav: "nav_en"
       nav_title: "Sitemap"
   - scope:
