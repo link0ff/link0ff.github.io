@@ -9,7 +9,7 @@ to the rhythm of music.
 Each clap fixes a unique moment in time and space: **HERE** and **NOW**.
 
 Below is an alphabetical list of some well-known songs with claps.  
-You can click on any song title to play it in the left sidebar.
+You can click on any song title to play it in the right sidebar.
 
 <!--
 **Boney M**
