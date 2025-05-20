@@ -2,7 +2,7 @@
 title: Clapping hands
 layout: category
 ---
-I'm fascinated by songs that include synchronized hand clapping,
+I'm fascinated by the songs that include synchronized hand clapping,
 when people clap their hands in unison as an accompaniment
 to the rhythm of music.
 
@@ -46,7 +46,7 @@ You can click on any song title to play it in the right sidebar.
 
 **Paul Mauriat**
 - {% include ytplay.html id="Ev7SXzRLUjU" t="Penelope (Disco Version)" %}
-- {% include ytplay.html id="tLVtLndzUw8" t="The bird and the child" %} <!-- «Этот мир придуман не нами» -->
+- {% include ytplay.html id="tLVtLndzUw8" t="The Bird and the Child" %} <!-- «Этот мир придуман не нами» -->
 
 **Queen**
 - {% include ytplay.html id="o-0ygW-B_gI" t="Radio Ga Ga (Live Aid, Wembley London, 1985)" %}
@@ -55,16 +55,16 @@ You can click on any song title to play it in the right sidebar.
 - {% include ytplay.html id="C916zkYcDeQ" t="Le Monde (Talk to Me)" %}
 
 **Santa Esmeralda**
-- {% include ytplay.html id="8FMdaDEmcDg" t="Don't let me be misunderstood" %}
+- {% include ytplay.html id="8FMdaDEmcDg" t="Don't Let Me Be Misunderstood" %}
 
 **Tears for Fears**
-- {% include ytplay.html id="VAtGOESO7W8" t="Sowing The Seeds Of Love" %}
+- {% include ytplay.html id="VAtGOESO7W8" t="Sowing the Seeds Of Love" %}
 
 **The Alan Parsons Project**
 - {% include ytplay.html id="_OhOHe98ePE" t="Hawkeye" %}
 
 **The Beatles**
-- {% include ytplay.html id="ipADNlW7yBM" t="I Want To Hold Your Hand" %}
+- {% include ytplay.html id="ipADNlW7yBM" t="I Want to Hold Your Hand" %}
 
 **The Rolling Stones**
 - {% include ytplay.html id="7JR10AThY8M" t="Start Me Up" %}

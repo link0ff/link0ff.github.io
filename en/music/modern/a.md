@@ -28,7 +28,6 @@ title: A
 - {% include ytplay.html id="ulZQTrV8QlQ" t="Lay All Your Love on Me" %}
 - {% include ytplay.html id="Pp6fyDjrgHM" t="Love Isn't Easy (But It Sure Is Hard Enough)" %}
 - {% include ytplay.html id="unfzfe8f9NI" t="Mamma Mia" %}
-- {% include ytplay.html id="Q9k87Nd0QHE" t="Merry-Go-Round" %}
 - {% include ytplay.html id="pnS2E_ScbQ8" t="Me And Bobby And Bobby's Brother" %}
 - {% include ytplay.html id="ETxmCCsMoD0" t="Money, Money, Money" %}
 - {% include ytplay.html id="IIKAe8Wi0S0" t="One of Us" %}
@@ -59,7 +58,7 @@ title: A
 - {% include ytplay.html id="atFXVPpr-dc" t="Lilla Du, Lilla Van" %}
 - {% include ytplay.html id="pXJaYaSrHic" t="Love Has Its Ways" %}
 - {% include ytplay.html id="RjNuw4E-e80" t="Lycka" %}
-- {% include ytplay.html id="Dx2VM07e6Wo" t="Merry-Go-Round (from Lycka)" %}
+- {% include ytplay.html id="Q9k87Nd0QHE" t="Merry-Go-Round" %}
 - {% include ytplay.html id="rgc_LRjlbTU" t="One Night in Bangkok" %}
 - {% include ytplay.html id="VV4u8ragmpU" t="She's My Kind of Girl" %}
 - {% include ytplay.html id="uyCOsB6c7tc" t="To Live with You" %}
