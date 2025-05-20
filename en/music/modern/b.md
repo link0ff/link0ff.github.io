@@ -125,7 +125,7 @@ title: B
 
 **[Blind Guardian](https://en.wikipedia.org/wiki/Blind_Guardian){:target="_blank"}**
 - {% include ytplay.html id="Qov5WhGdxpI" t="Surfin' USA" %}
-  (*cover of “The Beach Boys - Surfin' U.S.A.”*)
+  <details><summary></summary><i>cover of “The Beach Boys - Surfin' U.S.A.”</i></details>
 
 **[Blondie](https://en.wikipedia.org/wiki/Blondie_(band)){:target="_blank"}**
 - {% include ytplay.html id="StKVS0eI85I" t="Call Me" %}
