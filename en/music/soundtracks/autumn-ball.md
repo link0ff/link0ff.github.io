@@ -2,7 +2,7 @@
 title: Autumn Ball
 ---
 Soundtrack from the great tragicomedy film
-“[Autumn Ball](https://en.wikipedia.org/wiki/Autumn_Ball){:class="underline"}” (2007):
+“[Autumn Ball](https://en.wikipedia.org/wiki/Autumn_Ball){:.underline target="_blank"}” (2007):
 
 **[Bohren & der Club of Gore](https://en.wikipedia.org/wiki/Bohren_&_der_Club_of_Gore){:target="_blank"}**
 - {% include ytplay.html id="nbRDUt7yXxM" t="Zeigefinger" %}
