@@ -9,17 +9,5 @@ layout: page
 {%- assign pages = pages | sort: page.sortby -%}
 {%- endif -%}
 {% for p in pages %}
-{%- assign c = p.content -%}
-{%- if c contains "<!-- lj-cut -->" -%}
-{%- assign parts = c | split: "<!-- lj-cut -->" -%}
-{%- assign c = parts[0] -%}
-{%- assign c = c | append: '<p class="text-right"><a href="' | append: p.url | append: '" class="font-bold">(' -%}
-{%- if p.lang == "ru" -%}
-{%- assign c = c | append: 'Читать дальше' -%}
-{%- else -%}
-{%- assign c = c | append: 'Read more' -%}
-{%- endif -%}
-{%- assign c = c | append: '…)</a></p>' -%}
-{%- endif -%}
-{%- include card.html page=p content=c clickable=true -%}
+{%- include card.html page=p content="" clickable=true -%}
 {% endfor %}
