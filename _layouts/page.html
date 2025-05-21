@@ -6,6 +6,16 @@ layout: default
      @keydown.escape="leftSidebarOpen = false; rightSidebarOpen = false">
   {% include header.html %}
 
+  <style>
+    [x-cloak] { display: none !important; }
+  </style>
+
+  <noscript>
+    <style>
+      [x-cloak] { display: block !important; }
+    </style>
+  </noscript>
+
   <div class="flex justify-center">
     {% include sidebar_left.html %}
 

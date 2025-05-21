@@ -412,9 +412,6 @@
   .text-justify {
     text-align: justify;
   }
-  .text-right {
-    text-align: right;
-  }
   .text-lg {
     font-size: var(--text-lg);
     line-height: var(--tw-leading, var(--text-lg--line-height));
@@ -617,9 +614,6 @@
       color: white;
       background-color: #18191a;
     }
-  }
-  [x-cloak] {
-    display: none !important;
   }
   main article img {
     margin: auto;

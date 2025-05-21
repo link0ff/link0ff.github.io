@@ -14,10 +14,6 @@
     }
   }
 
-  [x-cloak] {
-    display: none !important;
-  }
-
   main article img {
     margin: auto;
   }
