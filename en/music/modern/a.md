@@ -141,9 +141,6 @@ title: A
 - {% include ytplay.html id="7CiOWcUVGJM" t="Crying at the Discoteque" %}
 - {% include ytplay.html id="PmVNElBGuj4" t="Crying at the Discoteque (Long version)" %}
 
-**[Alexander Rybak](https://en.wikipedia.org/wiki/Alexander_Rybak){:target="_blank"}**
-- {% include ytplay.html id="WXwgZL4zx9o" t="Fairytale (Eurovision-2009, Norway)" %}
-
 **[Alice Cooper](https://en.wikipedia.org/wiki/Alice_Cooper){:target="_blank"}**
 - {% include ytplay.html id="Qq4j1LtCdww" t="Poison" %}
 

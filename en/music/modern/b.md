@@ -124,8 +124,7 @@ title: B
 - {% include ytplay.html id="u1ZoHfJZACA" t="Wonderful Life" %}
 
 **[Blind Guardian](https://en.wikipedia.org/wiki/Blind_Guardian){:target="_blank"}**
-- {% include ytplay.html id="Qov5WhGdxpI" t="Surfin' USA" %}
-  <details><summary></summary><i>cover of “The Beach Boys - Surfin' U.S.A.”</i></details>
+- {% include ytplay.html id="Qov5WhGdxpI" t="Surfin' USA" %} {% include remark.html c="cover of “The Beach Boys - Surfin' U.S.A.”" %}
 
 **[Blondie](https://en.wikipedia.org/wiki/Blondie_(band)){:target="_blank"}**
 - {% include ytplay.html id="StKVS0eI85I" t="Call Me" %}
