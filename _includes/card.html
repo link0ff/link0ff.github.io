@@ -14,7 +14,7 @@
   </div>
 
   <div class="text-justify px-4 py-2 m-auto">
-    <article{% if page.layout == "category" and include.clickable == true %} hx-trigger="load" hx-get="{{ include.page.url }}" hx-select="article" hx-swap="outerHTML ignoreTitle:true"{% endif %}>
+    <article{% if page.layout == "category" and page.lazyload == true and include.clickable == true %} hx-trigger="load" hx-get="{{ include.page.url }}" hx-select="article" hx-swap="outerHTML ignoreTitle:true"{% endif %}>
       {{ include.content }}
     </article>
   </div>

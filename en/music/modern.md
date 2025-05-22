@@ -1,6 +1,7 @@
 ---
 title: Modern Music
 layout: category
+lazyload: true
 ---
 I'd like to present a carefully selected collection
 of the most remarkable contemporary songs and compositions.

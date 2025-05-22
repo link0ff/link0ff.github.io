@@ -6,7 +6,7 @@
   {% endif %}
   <div class="p-4 h-full xl:text-gray-500 xl:dark:text-gray-400 hover:xl:text-black hover:xl:dark:text-white overflow-y-auto">
     {%- assign toc_title = page.toc_title | default: "&nbsp;" | default: "Оглавление" -%}
-    {%- if page.layout == "category" -%}
+    {%- if page.layout == "category" and page.lazyload == true -%}
     {%- assign toc_title = "Index" -%}
     {%- endif -%}
     <h2 class="text-lg font-bold mb-4">{{ toc_title }}</h2>
