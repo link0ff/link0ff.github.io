@@ -3,11 +3,19 @@ layout: page
 ---
 {%- include card.html page=page content=content clickable=false -%}
 
+{% if page.url == "/en/" or page.url == "/" %}
+{%- assign dir = "/en/" -%}
+{% elsif page.url == "/ru/" %}
+{%- assign dir = "/ru/" -%}
+{% else %}
 {%- assign dir = page.url | append: "/" -%}
+{% endif %}
 {%- assign pages = site.pages | where: "dir", dir -%}
 {%- if page.sortby -%}
 {%- assign pages = pages | sort: page.sortby -%}
 {%- endif -%}
 {% for p in pages %}
+{% if p.name != "index.html" %}
 {%- include card.html page=p content="" clickable=true -%}
+{% endif %}
 {% endfor %}
