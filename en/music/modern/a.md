@@ -1,5 +1,14 @@
 ---
 title: A
+summary: >
+  ABBA, ATB, Accept, Ace of Base, Adele, Adriano Celentano, Aerosmith,
+  Afric Simone, Alain Barriere, Alanis Morissette, Alannah Myles, Albert
+  Hammond, Alcazar, Alice Cooper, All Saints, Alphaville, Al Bano & Romina
+  Power, Amanda Lear, Amy Grant, Amy Winehouse, Anastacia, Andreas Johnson,
+  Andrea Bocelli, Andrea Bocelli, Andrew Lloyd Webber, Andy Williams, Aneka,
+  Animotion, Anita Ward, Ankie Bagger, Arabesque, Armin van Buuren, Armin van
+  Buuren, Army Of Lovers, Ashford & Simpson, Astrud Gilberto, Aswad, A Touch
+  of Class, Avril Lavigne, A La Carte, A-Ha
 ---
 **[ABBA](https://en.wikipedia.org/wiki/ABBA){:target="_blank"}**
 - {% include ytplay.html id="GHddJnNo_BQ" t="Angeleyes" %}

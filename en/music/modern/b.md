@@ -1,5 +1,16 @@
 ---
 title: B
+summary: >
+  B3, Babylon Zoo, Baby's Gang, Baccara, Bachman Turner Overdrive, Backstreet
+  Boys, Bad Boys Blue, Baha Men, Baltimora, Bananarama, Barbra Streisand, Bee
+  Gees, Belinda Carlisle, Bellini, Bell Book & Candle, Ben E.  King, Ben,
+  Berlin, Betty Everett, Billy Idol, Billy Joel, Billy Ocean, Bill Haley &
+  His Comets, Blackmore's Night, Black Box, Black Sabbath, Black, Blind
+  Guardian, Blondie, Blue System, Blue, Bobby McFerrin, Bob Dylan,
+  Bombalurina, Bomfunk Mc's, Boney M, Bonnie Bianco, Bonnie Tyler, Bonnie
+  Tyler, Bon Jovi, Boston, Bouzouki Disco Band, Boys Town Gang, Brainstorm,
+  Brazzaville, Brian Hyland, Britney Spears, Bronski Beat, Brotherhood of Man,
+  Bruce Hornsby and the Range, Bruce Springsteen, Bryan Adams, Bryan Ferry
 ---
 **[B3](https://en.wikipedia.org/wiki/B3_(band)){:target="_blank"}**
 - {% include ytplay.html id="i8Q-3XUEK4g" t="I.O.I.O" %}

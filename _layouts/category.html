@@ -16,6 +16,11 @@ layout: page
 {%- endif -%}
 {% for p in pages %}
 {% if p.name != "index.html" %}
-{%- include card.html page=p content="" clickable=true -%}
+{% if p.summary %}
+{%- assign c = p.summary -%}
+{% else %}
+{%- assign c = "" -%}
+{% endif %}
+{%- include card.html page=p content=c clickable=true -%}
 {% endif %}
 {% endfor %}
