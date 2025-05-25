@@ -1,5 +1,14 @@
 ---
 title: C
+summary: >
+  Camouflage, Cappella, Captain Hollywood Project, Captain Jack, Carl
+  Douglas, Celine Dion, Celtic Pink Floyd, Chad Kroeger, Charles Aznavour,
+  Charles & Eddie, Chava Alberstein, Cherry Laine, Cher, Chicago, Chic,
+  Chilly, Christie, Christina Aguilera, Chris de Burgh, Chris Isaak, Chris
+  Norman, Chris Rea, Chuck Berry, Chumbawamba, Cliff Richard, Clodagh Rogers,
+  Clout, Collage, Connie Francis, Coolio, Corona, Crash Test Dummies, Cream,
+  Creedence Clearwater Revival, Crowded House, Crystal Waters, Culture Beat,
+  Culture Club, Cutting Crew, Cyndi Lauper, C+C Music Factory, C. C. Catch
 ---
 **[Camouflage](https://en.wikipedia.org/wiki/Camouflage_(band)){:target="_blank"}**
 - {% include ytplay.html id="zXzqcDnzDgc" t="Love Is a Shield" %} {% include remark.html c="Sounds like Depeche Mode" %}
