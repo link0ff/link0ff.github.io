@@ -115,7 +115,7 @@ summary: >
 - {% include ytplay.html id="eFTLKWw542g" t="We Didn't Start the Fire" %}
 
 **[Billy Ocean](https://en.wikipedia.org/wiki/Billy_Ocean){:target="_blank"}**
-- {% include ytplay.html id="zNgcYGgtf8M" t="Get Outta My Dreams, Get Into My Car " %}
+- {% include ytplay.html id="zNgcYGgtf8M" t="Get Outta My Dreams, Get Into My Car" %}
 - {% include ytplay.html id="tyrowWnlNnQ" t="Loverboy" %}
 
 **[Bill Haley & His Comets](https://en.wikipedia.org/wiki/Bill_Haley_&_His_Comets){:target="_blank"}**
@@ -135,7 +135,7 @@ summary: >
 - {% include ytplay.html id="u1ZoHfJZACA" t="Wonderful Life" %}
 
 **[Blind Guardian](https://en.wikipedia.org/wiki/Blind_Guardian){:target="_blank"}**
-- {% include ytplay.html id="Qov5WhGdxpI" t="Surfin' USA" %} {% include remark.html c="cover of “The Beach Boys - Surfin' U.S.A.”" %}
+- {% include ytplay.html id="Qov5WhGdxpI" t="Surfin' USA" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Surfin'_U.S.A.){:target=\"_blank\"}" %}
 
 **[Blondie](https://en.wikipedia.org/wiki/Blondie_(band)){:target="_blank"}**
 - {% include ytplay.html id="StKVS0eI85I" t="Call Me" %}

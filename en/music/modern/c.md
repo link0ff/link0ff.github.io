@@ -11,7 +11,7 @@ summary: >
   Culture Club, Cutting Crew, Cyndi Lauper, C+C Music Factory, C. C. Catch
 ---
 **[Camouflage](https://en.wikipedia.org/wiki/Camouflage_(band)){:target="_blank"}**
-- {% include ytplay.html id="zXzqcDnzDgc" t="Love Is a Shield" %} {% include remark.html c="Sounds like Depeche Mode" %}
+- {% include ytplay.html id="zXzqcDnzDgc" t="Love Is a Shield" %} {% include remark.html c="sounds like Depeche Mode" %}
 
 **[Cappella](https://en.wikipedia.org/wiki/Cappella_(band)){:target="_blank"}**
 - {% include ytplay.html id="y3KihWJRh6U" t="U Got 2 Let the Music" %}
@@ -21,8 +21,8 @@ summary: >
 - {% include ytplay.html id="_vkVXbtqLpI" t="Only With You" %}
 
 **[Captain Jack](https://en.wikipedia.org/wiki/Captain_Jack_(group)){:target="_blank"}**
-- {% include ytplay.html id="7X2QztU74pA" t="Dream a Dream" %} {% include remark.html c="cover of Edvard Grieg “In the Hall of the Mountain King”" %}
-- {% include ytplay.html id="Qzjeeq8OICs" t="Get Up" %} {% include remark.html c="cover of [A Banda](https://en.wikipedia.org/wiki/A_Banda_(Ah_Bahn-da)){:target=\"_blank\"}" %}
+- {% include ytplay.html id="7X2QztU74pA" t="Dream a Dream" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/In_the_Hall_of_the_Mountain_King){:target=\"_blank\"}" %}
+- {% include ytplay.html id="Qzjeeq8OICs" t="Get Up" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/A_Banda_(Ah_Bahn-da)){:target=\"_blank\"}" %}
 
 **[Carl Douglas](https://en.wikipedia.org/wiki/Carl_Douglas){:target="_blank"}**
 - {% include ytplay.html id="bmfudW7rbG0" t="Kung Fu Fighting" %}
@@ -126,7 +126,7 @@ summary: >
 - {% include ytplay.html id="U6G52RpNqPM" t="Save Me" %}
 
 **[Clout](https://en.wikipedia.org/wiki/Clout){:target="_blank"}**
-- {% include ytplay.html id="H7Q3pVAOSLE" t="Save Me" %} {% include remark.html c="cover of Clodagh Rogers “Save Me”" %}
+- {% include ytplay.html id="H7Q3pVAOSLE" t="Save Me" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Save_Me_(Clodagh_Rodgers_song)){:target=\"_blank\"}" %}
 - {% include ytplay.html id="5fgA_yNCeq4" t="Substitute" %}
 - {% include ytplay.html id="pRZL3oF72TA" t="Without Love" %}
 

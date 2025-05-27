@@ -236,10 +236,10 @@ summary: >
 - {% include ytplay.html id="MidApgwKpyg" t="Touch and Go" %}
 
 **[Armin van Buuren](https://en.wikipedia.org/wiki/Armin_van_Buuren){:target="_blank"} feat. [Jaren](https://en.wikipedia.org/wiki/Jaren_Cerf){:target="_blank"}**
-- {% include ytplay.html id="eyUfJVqMtO0" t="Unforgivable (Extended Mix)" %}
+- {% include ytplay.html id="eyUfJVqMtO0" t="Unforgivable (Extended Mix)" %} {% include remark.html c="vocal trance" %}
 
 **[Armin van Buuren](https://en.wikipedia.org/wiki/Armin_van_Buuren){:target="_blank"} feat. [Sharon den Adel](https://en.wikipedia.org/wiki/Sharon_den_Adel){:target="_blank"}**
-- {% include ytplay.html id="TxvpctgU_s8" t="In and Out of Love" %}
+- {% include ytplay.html id="TxvpctgU_s8" t="In and Out of Love" %} {% include remark.html c="vocal trance" %}
 
 **[Army Of Lovers](https://en.wikipedia.org/wiki/Army_Of_Lovers){:target="_blank"}**
 - {% include ytplay.html id="cUo0YkLyrjU" t="Carry My Urn to Ukraine" %}
