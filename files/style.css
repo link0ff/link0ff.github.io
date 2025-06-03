@@ -1,14 +1,17 @@
 main article {
-  h1:not(:first-child) {
-    margin-top: 1rem;
-  }
-
-  p:not(:first-child) {
+  h1:not(:first-child), p:not(:first-child), blockquote:not(:first-child) {
     margin-top: 1rem;
   }
 
   li p {
     margin-top: 0 !important;
+  }
+
+  blockquote {
+    margin: 1em 0 0 0;
+    padding: 0 0 0 1em;
+    border-left: thick solid lightgrey;
+    font-style: italic;
   }
 
   a {
