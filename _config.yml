@@ -17,6 +17,8 @@ defaults:
       layout: card
       nav: "nav_en"
       nav_title: "Sitemap"
+      styles:
+        - /files/music/style.css
   - scope:
       path: ru
     values:
@@ -27,14 +29,10 @@ defaults:
       path: en/music
     values:
       ytplayer: true
-      styles:
-        - /files/music/style.css
   # - scope:
   #     path: ru/music
   #   values:
   #     ytplayer: true
-  #     styles:
-  #       - /files/music/style.css
 
 plugins:
   - jekyll-redirect-from
