@@ -61,6 +61,9 @@ summary: >
 - {% include ytplay.html id="SzT0dvNrFc4" t="La Passion" %}
 - {% include ytplay.html id="464Rx1CJIJw" t="The Riddle" %}
 
+**[Gigliola Cinquetti](https://en.wikipedia.org/wiki/Gigliola_Cinquetti){:target="_blank"}**
+- {% include ytplay.html id="agIYucbhZC8" t="Alle porte del sole" %}
+
 **[Gilla](https://en.wikipedia.org/wiki/Gilla_(singer)){:target="_blank"}**
 - {% include ytplay.html id="4DIvuxDNmc0" t="Belfast" %}
 - {% include ytplay.html id="4OrU8eqgUYo" t="Du Bist Da" %}
