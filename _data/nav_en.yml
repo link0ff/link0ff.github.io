@@ -13,3 +13,8 @@
       url: /en/music/modern
     - title: Soundtracks
       url: /en/music/soundtracks
+- title: LLM
+  url: /en/llm
+  nav:
+    - title: Robot
+      url: /en/llm/robot
