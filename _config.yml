@@ -29,10 +29,16 @@ defaults:
       path: en/music
     values:
       ytplayer: true
+      styles:
+        - /files/style.css
+        - /files/music/style.css
   # - scope:
   #     path: ru/music
   #   values:
   #     ytplayer: true
+  #     styles:
+  #       - /files/style.css
+  #       - /files/music/style.css
 
 plugins:
   - jekyll-redirect-from

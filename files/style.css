@@ -15,8 +15,10 @@ main article {
   }
 
   a {
+    color: #36c;
+
     &:hover {
-      text-decoration-line: underline;
+      text-decoration: underline;
     }
   }
 }
