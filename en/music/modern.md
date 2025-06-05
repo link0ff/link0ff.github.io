@@ -10,3 +10,4 @@ This list was created to ensure you don't miss
 any impactful songs from recent years.
 
 You can click on any song title to play it in the right sidebar.
+Scroll completely downwards to load everything.

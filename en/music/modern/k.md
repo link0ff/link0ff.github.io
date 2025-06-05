@@ -67,4 +67,4 @@ summary: >
 - {% include ytplay.html id="c18441Eh_WE" t="Can't Get You Out of My Head" %}
 - {% include ytplay.html id="WSFDCmmsqEI" t="Confide in Me" %}
 - {% include ytplay.html id="3_TvpBwSZDM" t="I Should Be So Lucky" %}
-- {% include ytplay.html id="POWsFzSFLCE" t="The Loco-Motion" %}
+- {% include ytplay.html id="POWsFzSFLCE" t="The Loco-Motion" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/The_Loco-Motion){:target=\"_blank\"}" %}
