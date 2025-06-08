@@ -18,7 +18,27 @@
     display: none !important;
   }
 
-  main article img {
-    margin: auto;
+  main article {
+    h1:not(:first-child), p:not(:first-child), blockquote:not(:first-child) {
+      margin-top: 1rem;
+    }
+
+    blockquote {
+      padding-left: 1rem;
+      border-left: thick solid lightgrey;
+      font-style: italic;
+    }
+
+    a {
+      color: #36c;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    img {
+      margin: auto;
+    }
   }
 }
