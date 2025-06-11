@@ -23,7 +23,7 @@ summary: >
 - {% include ytplay.html id="yHsm9aUW6oE" t="The Phantom of the Opera" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(song)){:target=\"_blank\"}" %}
 
 **[Harry Nilsson](https://en.wikipedia.org/wiki/Harry_Nilsson){:target="_blank"}**
-- {% include ytplay.html id="8dnUv3DUP4E" t="Without You" %}
+- {% include ytplay.html id="8dnUv3DUP4E" t="Without You" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Without_You_(Badfinger_song)){:target=\"_blank\"}" %}
 
 **[Heath Hunter & The Pleasure Company](https://www.discogs.com/artist/184860-Heath-Hunter-The-Pleasure-Company){:target="_blank"}**
 - {% include ytplay.html id="vBJCpSFMroE" t="Revolution in Paradise" %}
