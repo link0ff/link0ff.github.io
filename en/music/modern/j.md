@@ -9,6 +9,9 @@ summary: >
   Hurricanes, John Farnham, John Lennon, John Travolta, Jonathan Coulton, Joy,
   Jukka Virtanen, Julie Covington, Julio Iglesias, J-Five
 ---
+**[Jaak Joala](https://en.wikipedia.org/wiki/Jaak_Joala){:target="_blank"}**
+- {% include ytplay.html id="tdw1E9hjQp8" t="Naerata" %}
+
 **[Jackie Wilson](https://en.wikipedia.org/wiki/Jackie_Wilson){:target="_blank"}**
 - {% include ytplay.html id="8CTs8a7dVa0" t="Reet Petite" %}
 

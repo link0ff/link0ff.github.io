@@ -126,7 +126,7 @@ summary: >
 - {% include ytplay.html id="zWaymcVmJ-A" t="Macarena" %}
 
 **[Los Lobos](https://en.wikipedia.org/wiki/Los_Lobos){:target="_blank"}**
-- {% include ytplay.html id="nLAWPrCUQQ0" t="La Bamba" %}
+- {% include ytplay.html id="nLAWPrCUQQ0" t="La Bamba" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/La_Bamba_(song)){:target=\"_blank\"}" %}
 
 **[Los Lobos](https://en.wikipedia.org/wiki/Los_Lobos){:target="_blank"} & [Antonio Banderas](https://en.wikipedia.org/wiki/Antonio_Banderas){:target="_blank"}**
 - {% include ytplay.html id="1nA6f6vDxtg" t="Canción Del Mariachi" %}
