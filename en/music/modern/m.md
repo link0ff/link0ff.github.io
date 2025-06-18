@@ -45,7 +45,7 @@ summary: >
 - {% include ytplay.html id="NaZSuwgydHc" t="Viens, viens" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Rain,_Rain,_Rain){:target=\"_blank\"}" %}
 
 **[Marie N](https://en.wikipedia.org/wiki/Marie_N){:target="_blank"}**
-- {% include ytplay.html id="_M-w89U8TEU" t="I wanna (Eurovision-2002, Latvia)" %}
+- {% include ytplay.html id="_M-w89U8TEU" t="I Wanna (Eurovision-2002, Latvia)" %}
 
 **[Marillion](https://en.wikipedia.org/wiki/Marillion){:target="_blank"}**
 - {% include ytplay.html id="GA4ROLQF4cs" t="Kayleigh" %}

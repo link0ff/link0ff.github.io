@@ -198,9 +198,6 @@ summary: >
 **[Don McLean](https://en.wikipedia.org/wiki/Don_McLean){:target="_blank"}**
 - {% include ytplay.html id="PRpiBpDy7MQ" t="American Pie" %}
 
-**[Doop](https://en.wikipedia.org/wiki/Doop_(band)){:target="_blank"}**
-- {% include ytplay.html id="tvLDm8821jQ" t="Doop" %}
-
 **[Doris D & The Pins](https://en.wikipedia.org/wiki/Doris_D_&_The_Pins){:target="_blank"}**
 - {% include ytplay.html id="K_aBgOFjfnM" t="Shine Up" %}
 

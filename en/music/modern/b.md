@@ -62,7 +62,7 @@ summary: >
 **[Bananarama](https://en.wikipedia.org/wiki/Bananarama){:target="_blank"}**
 - {% include ytplay.html id="PnMlYM0V-uU" t="I Want You Back" %}
 - {% include ytplay.html id="prGhk_Gvzwo" t="Love in the First Degree" %}
-- {% include ytplay.html id="d4-1ASpdT1Y" t="Venus" %}
+- {% include ytplay.html id="d4-1ASpdT1Y" t="Venus" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Venus_(Shocking_Blue_song)){:target=\"_blank\"}" %}
 
 **[Barbra Streisand](https://en.wikipedia.org/wiki/Barbra_Streisand){:target="_blank"}**
 - {% include ytplay.html id="MWoQW-b6Ph8" t="Memory" %}
