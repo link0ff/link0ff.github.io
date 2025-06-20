@@ -18,4 +18,4 @@ susceptible to rusting, the robot fearlessly steps through puddles.
 
 But the first image was quite rough, so I started to try generating
 more similar images using other available models.  Here is a sequence
-that show the progress.
+that shows the progress.
