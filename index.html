@@ -7,8 +7,7 @@ layout: category
 <meta http-equiv="refresh" content="0; url=/en/" />
 
 <div x-data x-init="
-  const userLang = navigator.language || navigator.userLanguage;
-  if (userLang.startsWith('ru')) {
+  if (navigator.language.startsWith('ru') || navigator.languages.includes('ru')) {
     window.location.href = '/ru/';
   } else {
     window.location.href = '/en/';
