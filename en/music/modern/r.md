@@ -9,9 +9,6 @@ summary: >
   Flack, Robertino Loreti, Robert Miles, Robert Palmer, Robey, Robin Gibb, Rod Stewart,
   Rondo Veneziano, Rose, Rose Laurens, Roxette, Roy Orbison, Ryan Paris, R.E.M.
 ---
-**[Ronit Ophir](https://www.discogs.com/artist/5868612-Ronit-Ophir){:target="_blank"}**
-- {% include ytplay.html id="iSyoq6dcqDE" t="Shai" %} (Rachel, Levi Shaar)
-
 **[Radiohead](https://en.wikipedia.org/wiki/Radiohead){:target="_blank"}**
 - {% include ytplay.html id="fHiGbolFFGw" t="Paranoid Android" %}
 
@@ -46,21 +43,24 @@ summary: >
 
 **[Ray Parker Jr.](https://en.wikipedia.org/wiki/Ray_Parker_Jr.){:target="_blank"}**
 - {% include ytplay.html id="Fe93CLbHjxQ" t="Ghostbusters" %}
-- {% include ytplay.html id="6-R0DV2z5DE" t="Ghostbusters (Instrumental)" %}
+
+**[Red Hot Chili Peppers](https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers){:target="_blank"}**
+- {% include ytplay.html id="YlUKcNNmywk" t="Californication" %}
 
 **[Rednex](https://en.wikipedia.org/wiki/Rednex){:target="_blank"}**
 - {% include ytplay.html id="mOYZaiDZ7BM" t="Cotton Eye Joe" %}
 - {% include ytplay.html id="avPhDfTGbB8" t="Hold Me For a While" %}
 - {% include ytplay.html id="6FwmM93jgUo" t="Wish You Were Here" %}
 
-**[Red Hot Chili Peppers](https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers){:target="_blank"}**
-- {% include ytplay.html id="YlUKcNNmywk" t="Californication" %}
-
 **[Reel 2 Real](https://en.wikipedia.org/wiki/Reel_2_Real){:target="_blank"}**
 - {% include ytplay.html id="vuo8kD5zF5I" t="I Like to Move It" %}
 
 **[Reeves & Mortimer](https://en.wikipedia.org/wiki/Reeves_&_Mortimer){:target="_blank"}**
 - {% include ytplay.html id="9un6gdY8-Fk" t="I'm a Believer" %}
+
+**[R.E.M.](https://en.wikipedia.org/wiki/R.E.M.){:target="_blank"}**
+- {% include ytplay.html id="5rOiW_xY-kc" t="Everybody Hurts" %}
+- {% include ytplay.html id="xwtdhWltSIg" t="Losing My Religion" %}
 
 **[Resource](https://en.wikipedia.org/wiki/Resource_(band)){:target="_blank"}**
 - {% include ytplay.html id="K2dGkAqSdlI" t="(I Just) Died in Your Arms" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/(I_Just)_Died_in_Your_Arms){:target=\"_blank\"}" %}
@@ -82,19 +82,19 @@ summary: >
 **[Richard Thompson](https://en.wikipedia.org/wiki/Richard_Thompson_(musician)){:target="_blank"}**
 - {% include ytplay.html id="V4WGsMplGxU" t="Oops!... I Did It Again" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(song)){:target=\"_blank\"}" %}
 
-**[Ricky Martin](https://en.wikipedia.org/wiki/Ricky_Martin){:target="_blank"}**
-- {% include ytplay.html id="tF_ggG5dY5U" t="La Copa de la Vida" %}
-- {% include ytplay.html id="vCEvCXuglqo" t="María" %}
-
-**[Ricky Martin](https://en.wikipedia.org/wiki/Ricky_Martin){:target="_blank"}, [Meja](https://en.wikipedia.org/wiki/Meja){:target="_blank"}**
-- {% include ytplay.html id="N-m9fn1yeEI" t="Private Emotion" %}
-
 **[Rick Astley](https://en.wikipedia.org/wiki/Rick_Astley){:target="_blank"}**
 - {% include ytplay.html id="dQw4w9WgXcQ" t="Never Gonna Give You Up" %}
 - {% include ytplay.html id="yPYZpwSpKmA" t="Together Forever" %}
 
 **[Rick James](https://en.wikipedia.org/wiki/Rick_James){:target="_blank"}**
 - {% include ytplay.html id="QYHxGBH6o4M" t="Super Freak" %}
+
+**[Ricky Martin](https://en.wikipedia.org/wiki/Ricky_Martin){:target="_blank"}**
+- {% include ytplay.html id="tF_ggG5dY5U" t="La Copa de la Vida" %}
+- {% include ytplay.html id="vCEvCXuglqo" t="María" %}
+
+**[Ricky Martin](https://en.wikipedia.org/wiki/Ricky_Martin){:target="_blank"}, [Meja](https://en.wikipedia.org/wiki/Meja){:target="_blank"}**
+- {% include ytplay.html id="N-m9fn1yeEI" t="Private Emotion" %}
 
 **[Righeira](https://en.wikipedia.org/wiki/Righeira){:target="_blank"}**
 - {% include ytplay.html id="sTsVJ1PsnMs" t="Vamos a la playa" %}
@@ -122,17 +122,17 @@ summary: >
 **[Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams){:target="_blank"} & [Queen](https://en.wikipedia.org/wiki/Queen){:target="_blank"}**
 - {% include ytplay.html id="cNAKr4BDwpM" t="We Are the Champions" %}
 
-**[Roberta Flack](https://en.wikipedia.org/wiki/Roberta_Flack){:target="_blank"}**
-- {% include ytplay.html id="mrudT410TAI" t="Killing Me Softly with His Song" %}
-
-**[Robertino Loreti](https://en.wikipedia.org/wiki/Robertino_Loreti){:target="_blank"}**
-- {% include ytplay.html id="tSgdX1dr5FI" t="Jamaica" %}
-
 **[Robert Miles](https://en.wikipedia.org/wiki/Robert_Miles){:target="_blank"} featuring [Maria Nayler](https://en.wikipedia.org/wiki/Maria_Nayler){:target="_blank"}**
 - {% include ytplay.html id="GtyiRvB5vCo" t="One and One" %} {% include remark.html c="vocal trance" %}
 
 **[Robert Palmer](https://en.wikipedia.org/wiki/Robert_Palmer){:target="_blank"} with [UB40](https://en.wikipedia.org/wiki/UB40){:target="_blank"}**
 - {% include ytplay.html id="HBcq5EzBcmQ" t="I'll Be Your Baby Tonight" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/I'll_Be_Your_Baby_Tonight){:target=\"_blank\"}" %}
+
+**[Roberta Flack](https://en.wikipedia.org/wiki/Roberta_Flack){:target="_blank"}**
+- {% include ytplay.html id="mrudT410TAI" t="Killing Me Softly with His Song" %}
+
+**[Robertino Loreti](https://en.wikipedia.org/wiki/Robertino_Loreti){:target="_blank"}**
+- {% include ytplay.html id="tSgdX1dr5FI" t="Jamaica" %}
 
 **[Robey](https://en.wikipedia.org/wiki/Louise_Robey){:target="_blank"}**
 - {% include ytplay.html id="bt4QBuPQeGw" t="One Night in Bangkok" %} (from the musical Chess)
@@ -147,6 +147,9 @@ summary: >
 
 **[Rondo Veneziano](https://en.wikipedia.org/wiki/Rondo_Veneziano){:target="_blank"}**
 - {% include ytplay.html id="Y4FrnrD7jCA" t="La Serenissima" %}
+
+**[Ronit Ophir](https://www.discogs.com/artist/5868612-Ronit-Ophir){:target="_blank"}**
+- {% include ytplay.html id="iSyoq6dcqDE" t="Shai" %} (Rachel, Levi Shaar)
 
 **[Rose](https://en.wikipedia.org/wiki/Elena_Ferretti){:target="_blank"}**
 - {% include ytplay.html id="_sesQhdWxMU" t="Magic Carillon" %}
@@ -171,7 +174,3 @@ summary: >
 
 **[Ryan Paris](https://en.wikipedia.org/wiki/Ryan_Paris){:target="_blank"}**
 - {% include ytplay.html id="EXmABxvHTG4" t="Dolce Vita" %}
-
-**[R.E.M.](https://en.wikipedia.org/wiki/R.E.M.){:target="_blank"}**
-- {% include ytplay.html id="5rOiW_xY-kc" t="Everybody Hurts" %}
-- {% include ytplay.html id="xwtdhWltSIg" t="Losing My Religion" %}

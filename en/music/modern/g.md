@@ -57,6 +57,9 @@ summary: >
 **[Gerry Rafferty](https://en.wikipedia.org/wiki/Gerry_Rafferty){:target="_blank"}**
 - {% include ytplay.html id="Fo6aKnRnBxM" t="Baker Street" %}
 
+**[Gibson Brothers](https://en.wikipedia.org/wiki/Gibson_Brothers){:target="_blank"}**
+- {% include ytplay.html id="NKwsGIw9ASM" t="Que Sera Mi Vida" %}
+
 **[Gigi D'Agostino](https://en.wikipedia.org/wiki/Gigi_D'Agostino){:target="_blank"}**
 - {% include ytplay.html id="SzT0dvNrFc4" t="La Passion" %}
 - {% include ytplay.html id="464Rx1CJIJw" t="The Riddle" %}

@@ -85,9 +85,6 @@ summary: >
 - {% include ytplay.html id="xFrGuyw1V8s" t="La Reina Del Baile (Reina Danzante, Dancing Queen)" %}
 - {% include ytplay.html id="xw9huGNsCjI" t="Mamma Mia (Spanish version)" %}
 
-**[ATB](https://en.wikipedia.org/wiki/ATB_(DJ)){:target="_blank"}**
-- {% include ytplay.html id="XK-LlnnQ71I" t="9 PM (Till I Come)" %}
-
 **[Accept](https://en.wikipedia.org/wiki/Accept_(band)){:target="_blank"}**
 - {% include ytplay.html id="udH1_Ta2GP4" t="Amamos La Vida" %}
 - {% include ytplay.html id="0_lT1AAKdX0" t="Can't Stand The Night" %}
@@ -134,6 +131,15 @@ summary: >
 - {% include ytplay.html id="IeX_eRBSgxI" t="Hafanana" %}
 - {% include ytplay.html id="ChDzMCiuw3U" t="Todo pasara Maria" %}
 
+**[A-Ha](https://en.wikipedia.org/wiki/A-Ha){:target="_blank"}**
+- {% include ytplay.html id="h-WPexVEujg" t="Crying in the Rain" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Crying_in_the_Rain){:target=\"_blank\"}" %}
+- {% include ytplay.html id="s6VaeFCxta8" t="Hunting High and Low" %}
+- {% include ytplay.html id="djV11Xbc914" t="Take on Me" %}
+
+**[A La Carte](https://en.wikipedia.org/wiki/A_La_Carte_(group)){:target="_blank"}**
+- {% include ytplay.html id="0lKBq3v0b_E" t="Do Wah Diddy Diddy" %}
+- {% include ytplay.html id="T9vxPZr_qR0" t="Ring Me Honey" %}
+
 **[Alain Barriere](https://en.wikipedia.org/wiki/Alain_Barrière){:target="_blank"} & [Noelle Cordier](https://en.wikipedia.org/wiki/Noëlle_Cordier){:target="_blank"}**
 - {% include ytplay.html id="O0FV3JAHMKo" t="Tu t'en vas" %}
 
@@ -142,6 +148,12 @@ summary: >
 
 **[Alannah Myles](https://en.wikipedia.org/wiki/Alannah_Myles){:target="_blank"}**
 - {% include ytplay.html id="tT4d1LQy4es" t="Black Velvet" %}
+
+**[Al Bano & Romina Power](https://en.wikipedia.org/wiki/Al_Bano_and_Romina_Power){:target="_blank"}**
+- {% include ytplay.html id="9PZGRJrLerI" t="Ci Sara" %}
+- {% include ytplay.html id="xUj-lfx6vbo" t="Felicita" %}
+- {% include ytplay.html id="MDDJhLlcgWA" t="Il Balo Del Qua Qua" %}
+- {% include ytplay.html id="YTbLPvYBK7E" t="Sharazan" %}
 
 **[Albert Hammond](https://en.wikipedia.org/wiki/Albert_Hammond){:target="_blank"}**
 - {% include ytplay.html id="f2zoq2uI0Fc" t="The Free Electric Band" %}
@@ -161,12 +173,6 @@ summary: >
 - {% include ytplay.html id="-tmY1GEH3_Y" t="Dance with Me" %}
 - {% include ytplay.html id="YHRvDo8rUoQ" t="Forever Young" %}
 - {% include ytplay.html id="sUz2DK-ucWc" t="Sounds Like a Melody" %}
-
-**[Al Bano & Romina Power](https://en.wikipedia.org/wiki/Al_Bano_and_Romina_Power){:target="_blank"}**
-- {% include ytplay.html id="9PZGRJrLerI" t="Ci Sara" %}
-- {% include ytplay.html id="xUj-lfx6vbo" t="Felicita" %}
-- {% include ytplay.html id="MDDJhLlcgWA" t="Il Balo Del Qua Qua" %}
-- {% include ytplay.html id="YTbLPvYBK7E" t="Sharazan" %}
 
 **[Amanda Lear](https://en.wikipedia.org/wiki/Amanda_Lear){:target="_blank"}**
 - {% include ytplay.html id="3LQAeZCoqNE" t="Black Holes" %}
@@ -192,14 +198,14 @@ summary: >
 **[Anastacia](https://en.wikipedia.org/wiki/Anastacia){:target="_blank"}**
 - {% include ytplay.html id="9iUTRUovNb0" t="Paid My Dues" %}
 
-**[Andreas Johnson](https://en.wikipedia.org/wiki/Andreas_Johnson){:target="_blank"}**
-- {% include ytplay.html id="pzQ82Ny1ToI" t="Glorious" %}
-
 **[Andrea Bocelli](https://en.wikipedia.org/wiki/Andrea_Bocelli){:target="_blank"}**
 - {% include ytplay.html id="fTxcrjBGves" t="Besame Mucho" %}
 
 **[Andrea Bocelli](https://en.wikipedia.org/wiki/Andrea_Bocelli){:target="_blank"} & [Sarah Brightman](https://en.wikipedia.org/wiki/Sarah_Brightman){:target="_blank"}**
 - {% include ytplay.html id="4L_yCwFD6Jo" t="Time to Say Goodbye" %}
+
+**[Andreas Johnson](https://en.wikipedia.org/wiki/Andreas_Johnson){:target="_blank"}**
+- {% include ytplay.html id="pzQ82Ny1ToI" t="Glorious" %}
 
 **[Andrew Lloyd Webber](https://en.wikipedia.org/wiki/Andrew_Lloyd_Webber){:target="_blank"}**
 - {% include ytplay.html id="ogwF33e_O_I" t="Angel of Music" %}
@@ -260,17 +266,11 @@ summary: >
 **[Aswad](https://en.wikipedia.org/wiki/Aswad){:target="_blank"}**
 - {% include ytplay.html id="IIw3BtSPHtI" t="Shine" %}
 
+**[ATB](https://en.wikipedia.org/wiki/ATB_(DJ)){:target="_blank"}**
+- {% include ytplay.html id="XK-LlnnQ71I" t="9 PM (Till I Come)" %}
+
 **[A Touch of Class](https://en.wikipedia.org/wiki/A_Touch_of_Class_(group)){:target="_blank"}**
 - {% include ytplay.html id="Se237UXFKlQ" t="Around the World (La La La La La)" %}
 
 **[Avril Lavigne](https://en.wikipedia.org/wiki/Avril_Lavigne){:target="_blank"}**
 - {% include ytplay.html id="5NPBIwQyPWE" t="Complicated" %}
-
-**[A La Carte](https://en.wikipedia.org/wiki/A_La_Carte_(group)){:target="_blank"}**
-- {% include ytplay.html id="0lKBq3v0b_E" t="Do Wah Diddy Diddy" %}
-- {% include ytplay.html id="T9vxPZr_qR0" t="Ring Me Honey" %}
-
-**[A-Ha](https://en.wikipedia.org/wiki/A-Ha){:target="_blank"}**
-- {% include ytplay.html id="h-WPexVEujg" t="Crying in the Rain" %}
-- {% include ytplay.html id="s6VaeFCxta8" t="Hunting High and Low" %}
-- {% include ytplay.html id="djV11Xbc914" t="Take on Me" %}

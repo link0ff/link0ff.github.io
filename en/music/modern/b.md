@@ -50,10 +50,12 @@ summary: >
 - {% include ytplay.html id="Kky5GUIiPAE" t="I Wanna Hear Your Heartbeat (Sunday Girl)" %}
 - {% include ytplay.html id="iYH6JCNxmrk" t="Pretty Young Girl" %}
 - {% include ytplay.html id="5dkpk1gmaDc" t="You're a Woman" %}
-- {% include ytplay.html id="4wXa0KlXJOQ" t="You're a Woman (Instrumental)" %}
 
 **[Baha Men](https://en.wikipedia.org/wiki/Baha_Men){:target="_blank"}**
 - {% include ytplay.html id="ojULkWEUsPs" t="Who Let the Dogs Out" %}
+
+**[Ballroom Orchestra & Singers](https://www.discogs.com/artist/6522184-Ballroom-Orchestra-And-Singers){:target="_blank"}**
+- {% include ytplay.html id="8YDdRZo_Ogo" t="When I Get Low, I Get High" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Ella_Fitzgerald){:target=\"_blank\"}" %}
 
 **[Baltimora](https://en.wikipedia.org/wiki/Baltimora){:target="_blank"}**
 - {% include ytplay.html id="--6CdAypJsQ" t="Tarzan Boy" %}
@@ -81,23 +83,26 @@ summary: >
 - {% include ytplay.html id="ur48BBf6TkU" t="La Luna" %}
 - {% include ytplay.html id="pmZYE8j2ZNs" t="Leave a Light On" %}
 
-**[Bellini](https://en.wikipedia.org/wiki/Bellini_(German_group)){:target="_blank"}**
-- {% include ytplay.html id="fhHKYR-v0UE" t="Samba de Janeiro" %}
-
 **[Bell Book & Candle](https://en.wikipedia.org/wiki/Bell,_Book_&_Candle_(band)){:target="_blank"}**
 - {% include ytplay.html id="S-F4N084M6U" t="Rescue Me" %}
 
-**[Ben E. King](https://en.wikipedia.org/wiki/Ben_E._King){:target="_blank"}**
-- {% include ytplay.html id="hwZNL7QVJjE" t="Stand by Me" %}
+**[Bellini](https://en.wikipedia.org/wiki/Bellini_(German_group)){:target="_blank"}**
+- {% include ytplay.html id="fhHKYR-v0UE" t="Samba de Janeiro" %}
 
 **[Ben](https://en.wikipedia.org/wiki/Ben_(German_singer)){:target="_blank"} feat. Gim**
 - {% include ytplay.html id="VoZlmEcACCc" t="Engel" %}
+
+**[Ben E. King](https://en.wikipedia.org/wiki/Ben_E._King){:target="_blank"}**
+- {% include ytplay.html id="hwZNL7QVJjE" t="Stand by Me" %}
 
 **[Berlin](https://en.wikipedia.org/wiki/Berlin_(band)){:target="_blank"}**
 - {% include ytplay.html id="Bx51eegLTY8" t="Take My Breath Away" %}
 
 **[Betty Everett](https://en.wikipedia.org/wiki/Betty_Everett){:target="_blank"}**
 - {% include ytplay.html id="B4KN6TFhy2I" t="It's in His Kiss (The Shoop Shoop Song)" %}
+
+**[Bill Haley & His Comets](https://en.wikipedia.org/wiki/Bill_Haley_&_His_Comets){:target="_blank"}**
+- {% include ytplay.html id="ZgdufzXvjqw" t="Rock Around the Clock" %}
 
 **[Billy Idol](https://en.wikipedia.org/wiki/Billy_Idol){:target="_blank"}**
 - {% include ytplay.html id="ClxXDfvtoj0" t="Sweet Sixteen" %}
@@ -118,21 +123,18 @@ summary: >
 - {% include ytplay.html id="zNgcYGgtf8M" t="Get Outta My Dreams, Get Into My Car" %}
 - {% include ytplay.html id="tyrowWnlNnQ" t="Loverboy" %}
 
-**[Bill Haley & His Comets](https://en.wikipedia.org/wiki/Bill_Haley_&_His_Comets){:target="_blank"}**
-- {% include ytplay.html id="ZgdufzXvjqw" t="Rock Around the Clock" %}
-
-**[Blackmore's Night](https://en.wikipedia.org/wiki/Blackmore's_Night){:target="_blank"}**
-- {% include ytplay.html id="g3mWRu-3zjg" t="Wish You Were Here" %}
+**[Black](https://en.wikipedia.org/wiki/Black_(singer)){:target="_blank"}**
+- {% include ytplay.html id="u1ZoHfJZACA" t="Wonderful Life" %}
 
 **[Black Box](https://en.wikipedia.org/wiki/Black_Box_(band)){:target="_blank"}**
 - {% include ytplay.html id="M0quXl_od3g" t="Ride on Time" %}
 
+**[Blackmore's Night](https://en.wikipedia.org/wiki/Blackmore's_Night){:target="_blank"}**
+- {% include ytplay.html id="g3mWRu-3zjg" t="Wish You Were Here" %}
+
 **[Black Sabbath](https://en.wikipedia.org/wiki/Black_Sabbath){:target="_blank"}**
 - {% include ytplay.html id="_eBCxYVma1g" t="Changes" %}
 - {% include ytplay.html id="0qanF-91aJo" t="Paranoid" %}
-
-**[Black](https://en.wikipedia.org/wiki/Black_(singer)){:target="_blank"}**
-- {% include ytplay.html id="u1ZoHfJZACA" t="Wonderful Life" %}
 
 **[Blind Guardian](https://en.wikipedia.org/wiki/Blind_Guardian){:target="_blank"}**
 - {% include ytplay.html id="Qov5WhGdxpI" t="Surfin' USA" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Surfin'_U.S.A.){:target=\"_blank\"}" %}
@@ -143,6 +145,10 @@ summary: >
 - {% include ytplay.html id="dnTkhTvWc3o" t="Maria" %}
 - {% include ytplay.html id="nZ4uFu4YblM" t="Ring My Bell" %}
 
+**[Blue](https://en.wikipedia.org/wiki/Blue_(English_group)){:target="_blank"}**
+- {% include ytplay.html id="MjiSPX9zAsM" t="Curtain Falls" %}
+- {% include ytplay.html id="OXqw6ERK09o" t="Sorry Seems To Be the Hardest Word" %} feat. Elton John
+
 **[Blue System](https://en.wikipedia.org/wiki/Blue_System){:target="_blank"}**
 - {% include ytplay.html id="DIp9u1xZqhE" t="Magic Symphony" %}
 - {% include ytplay.html id="pDzZj3-7-r4" t="My Bed is too Big" %}
@@ -150,23 +156,25 @@ summary: >
 - {% include ytplay.html id="AcWvZuXKk1Q" t="Romeo & Juliet" %}
 - {% include ytplay.html id="fxCeAj6stf4" t="Sorry Little Sarah" %}
 
-**[Blue](https://en.wikipedia.org/wiki/Blue_(English_group)){:target="_blank"}**
-- {% include ytplay.html id="MjiSPX9zAsM" t="Curtain Falls" %}
-- {% include ytplay.html id="OXqw6ERK09o" t="Sorry Seems To Be the Hardest Word" %} feat. Elton John
-
-**[Bobby McFerrin](https://en.wikipedia.org/wiki/Bobby_McFerrin){:target="_blank"}**
-- {% include ytplay.html id="d-diB65scQU" t="Don't Worry, Be Happy" %}
-
 **[Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan){:target="_blank"}**
 - {% include ytplay.html id="rm9coqlk8fY" t="Knockin' on Heaven's door" %}
 - {% include ytplay.html id="IwOfCgkyEj0" t="Like a Rolling Stone" %}
 - {% include ytplay.html id="3kh6K_-a0c4" t="Stuck Inside of Mobile with the Memphis Blues Again" %}
+
+**[Bobby McFerrin](https://en.wikipedia.org/wiki/Bobby_McFerrin){:target="_blank"}**
+- {% include ytplay.html id="d-diB65scQU" t="Don't Worry, Be Happy" %}
 
 **[Bombalurina](https://en.wikipedia.org/wiki/Timmy_Mallett){:target="_blank"}**
 - {% include ytplay.html id="4LagoycfdCA" t="Itsy Bitsy Teeny Weeny Yellow Polka Dot Bikini" %}
 
 **[Bomfunk Mc's](https://en.wikipedia.org/wiki/Bomfunk_Mc's){:target="_blank"}**
 - {% include ytplay.html id="ymNFyxvIdaM" t="Freestyler" %}
+
+**[Bon Jovi](https://en.wikipedia.org/wiki/Bon_Jovi){:target="_blank"}**
+- {% include ytplay.html id="9BMwcO6_hyA" t="Always" %}
+- {% include ytplay.html id="vx2u5uUu3DE" t="It's My Life" %}
+- {% include ytplay.html id="lDK9QqIzhwk" t="Livin on a Prayer" %}
+- {% include ytplay.html id="KrZHPOeOxQQ" t="You Give Love a Bad Name" %}
 
 **[Boney M](https://en.wikipedia.org/wiki/Boney_M){:target="_blank"}**
 - {% include ytplay.html id="y_J3OYH-AAo" t="Bahama Mama" %}
@@ -198,20 +206,14 @@ summary: >
 **[Bonnie Bianco](https://en.wikipedia.org/wiki/Lory_Bianco){:target="_blank"} & [Pierre Cosso](https://en.wikipedia.org/wiki/Pierre_Cosso){:target="_blank"}**
 - {% include ytplay.html id="NBvNTnTwxpE" t="Stay" %}
 
-**[Bonnie Tyler](https://en.wikipedia.org/wiki/Bonnie_Tyler){:target="_blank"} & [Mike Oldfield](https://en.wikipedia.org/wiki/Mike_Oldfield){:target="_blank"}**
-- {% include ytplay.html id="jIbAoz8ihLY" t="Islands" %}
-
 **[Bonnie Tyler](https://en.wikipedia.org/wiki/Bonnie_Tyler){:target="_blank"}**
 - {% include ytplay.html id="9q40RoEUxf0" t="He's the King" %}
 - {% include ytplay.html id="bWcASV2sey0" t="Holding Out for a Hero" %}
 - {% include ytplay.html id="bEOl38y8Nj8" t="It's a Heartache" %}
 - {% include ytplay.html id="lcOxhH8N3Bo" t="Total Eclipse of the Heart" %}
 
-**[Bon Jovi](https://en.wikipedia.org/wiki/Bon_Jovi){:target="_blank"}**
-- {% include ytplay.html id="9BMwcO6_hyA" t="Always" %}
-- {% include ytplay.html id="vx2u5uUu3DE" t="It's My Life" %}
-- {% include ytplay.html id="lDK9QqIzhwk" t="Livin on a Prayer" %}
-- {% include ytplay.html id="KrZHPOeOxQQ" t="You Give Love a Bad Name" %}
+**[Bonnie Tyler](https://en.wikipedia.org/wiki/Bonnie_Tyler){:target="_blank"} & [Mike Oldfield](https://en.wikipedia.org/wiki/Mike_Oldfield){:target="_blank"}**
+- {% include ytplay.html id="jIbAoz8ihLY" t="Islands" %}
 
 **[Boston](https://en.wikipedia.org/wiki/Boston_(band)){:target="_blank"}**
 - {% include ytplay.html id="2HuiH-0R6a0" t="Don't Look Back" %}
@@ -221,24 +223,21 @@ summary: >
 - {% include ytplay.html id="lwf1A2dHf64" t="Disco Bouzouki" %}
 - {% include ytplay.html id="lOApVqjnYZs" t="Do Re Mi Fa Soul" %}
 - {% include ytplay.html id="XnP9W-w92-8" t="Giorgio" %}
-- {% include ytplay.html id="2pCwEzGm_iU" t="Greek Girls" %}
-- {% include ytplay.html id="0MJ1EX1Yh-I" t="Greek Magic (Instrumental Medley)" %}
 - {% include ytplay.html id="VOwosdlYGdE" t="Greek Magic (Vocal Medley)" %}
-- {% include ytplay.html id="HFjetcXqEGw" t="Ouzo & Retsina" %}
 
 **[Boys Town Gang](https://en.wikipedia.org/wiki/Boys_Town_Gang){:target="_blank"}**
 - {% include ytplay.html id="hvNdWwsAMzI" t="Can't Take My Eyes Off You" %}
 
 **[Brainstorm](https://en.wikipedia.org/wiki/Brainstorm_(Latvian_band)){:target="_blank"}**
 - {% include ytplay.html id="J-CmEbXH90M" t="Maybe" %}
-- {% include ytplay.html id="N1y9xhmMSDk" t="My Star (Eurovision-2000, Latvia)" %}
+- {% include ytplay.html id="N1y9xhmMSDk" t="My Star" %} (Eurovision-2000, Latvia)
 
 **[Brazzaville](https://en.wikipedia.org/wiki/Brazzaville_(band)){:target="_blank"}**
 - {% include ytplay.html id="e3X2EYVyQU8" t="The Clouds in Camarillo" %}
 
 **[Brian Hyland](https://en.wikipedia.org/wiki/Brian_Hyland){:target="_blank"}**
 - {% include ytplay.html id="ge9Ou3-YyqU" t="Itsy Bitsy Teenie Weenie Yellow Polka..." %}
-- {% include ytplay.html id="2KQYLb0v4NQ" t="Sealed With a Kiss" %}
+- {% include ytplay.html id="2KQYLb0v4NQ" t="Sealed with a Kiss" %}
 
 **[Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears){:target="_blank"}**
 - {% include ytplay.html id="C-u5WLJ9Yk4" t="...Baby One More Time" %}
@@ -248,7 +247,7 @@ summary: >
 - {% include ytplay.html id="88sARuFu-tc" t="Smalltown Boy" %}
 
 **[Brotherhood of Man](https://en.wikipedia.org/wiki/Brotherhood_of_Man){:target="_blank"}**
-- {% include ytplay.html id="5yJUi6ke71I" t="Save Your Kisses for Me (Eurovision-1976, United Kingdom)" %}
+- {% include ytplay.html id="5yJUi6ke71I" t="Save Your Kisses for Me" %} (Eurovision-1976, United Kingdom)
 
 **[Bruce Hornsby and the Range](https://en.wikipedia.org/wiki/Bruce_Hornsby_and_the_Range){:target="_blank"}**
 - {% include ytplay.html id="GlRQjzltaMQ" t="The Way It Is" %}

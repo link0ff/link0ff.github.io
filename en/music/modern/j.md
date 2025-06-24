@@ -15,35 +15,35 @@ summary: >
 **[Jackie Wilson](https://en.wikipedia.org/wiki/Jackie_Wilson){:target="_blank"}**
 - {% include ytplay.html id="8CTs8a7dVa0" t="Reet Petite" %}
 
+**[Jam & Spoon](https://en.wikipedia.org/wiki/Jam_&_Spoon){:target="_blank"}**
+- {% include ytplay.html id="JpWT2vJZvj8" t="Right in the Night" %}
+
 **[James Brown](https://en.wikipedia.org/wiki/James_Brown){:target="_blank"}**
 - {% include ytplay.html id="pTdihu-mp90" t="I Got You (I Feel Good)" %}
 - {% include ytplay.html id="c5BL4RNFr58" t="Living in America" %}
 
-**[Jam & Spoon](https://en.wikipedia.org/wiki/Jam_&_Spoon){:target="_blank"}**
-- {% include ytplay.html id="JpWT2vJZvj8" t="Right in the Night" %}
+**[Jan & Dean](https://en.wikipedia.org/wiki/Jan_&_Dean){:target="_blank"}**
+- {% include ytplay.html id="dlpq4IvPmnw" t="Surfin' Usa" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Surfin'_U.S.A.){:target=\"_blank\"}" %}
 
 **[Jane Birkin](https://en.wikipedia.org/wiki/Jane_Birkin){:target="_blank"} & [Serge Gainsbourg](https://en.wikipedia.org/wiki/Serge_Gainsbourg){:target="_blank"}**
 - {% include ytplay.html id="Xpvpr7T_5VQ" t="Jane B." %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Preludes_(Chopin)){:target=\"_blank\"}" %}
 - {% include ytplay.html id="GlpDf6XX_j0" t="Je t'aime... moi non plus" %}
 - {% include ytplay.html id="yrqIrAtqves" t="Lost song" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Peer_Gynt_(Grieg)#Suite_No._2,_Op._55){:target=\"_blank\"}" %}
 
-**[Jan & Dean](https://en.wikipedia.org/wiki/Jan_&_Dean){:target="_blank"}**
-- {% include ytplay.html id="dlpq4IvPmnw" t="Surfin' Usa" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Surfin'_U.S.A.){:target=\"_blank\"}" %}
-
 **[Jason Donovan](https://en.wikipedia.org/wiki/Jason_Donovan){:target="_blank"}**
-- {% include ytplay.html id="y-Qf2c1xr2I" t="Sealed with a Kiss" %}
-
-**[Jeanette Biedermann](https://en.wikipedia.org/wiki/Jeanette_Biedermann){:target="_blank"}**
-- {% include ytplay.html id="GnBcde-9X9Q" t="How Its Got to Be" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Swan_Lake){:target=\"_blank\"}" %}
-
-**[Jeanette](https://en.wikipedia.org/wiki/Jeanette_(Spanish_singer)){:target="_blank"}**
-- {% include ytplay.html id="TjUhXbGdLYo" t="Porque te vas" %}
+- {% include ytplay.html id="y-Qf2c1xr2I" t="Sealed with a Kiss" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Sealed_with_a_Kiss){:target=\"_blank\"}" %}
 
 **[Jean-Jacques Goldman](https://en.wikipedia.org/wiki/Jean-Jacques_Goldman){:target="_blank"}**
 - {% include ytplay.html id="ySZBnMukO8g" t="Comme toi" %}
 
 **[Jean-Pierre Kusela](https://en.wikipedia.org/wiki/Jean-Pierre_Kusela){:target="_blank"}**
 - {% include ytplay.html id="PLOLTk1GVRE" t="Naurava kulkuri" %}
+
+**[Jeanette](https://en.wikipedia.org/wiki/Jeanette_(Spanish_singer)){:target="_blank"}**
+- {% include ytplay.html id="TjUhXbGdLYo" t="Porque te vas" %}
+
+**[Jeanette Biedermann](https://en.wikipedia.org/wiki/Jeanette_Biedermann){:target="_blank"}**
+- {% include ytplay.html id="GnBcde-9X9Q" t="How Its Got to Be" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Swan_Lake){:target=\"_blank\"}" %}
 
 **[Jefferson Airplane](https://en.wikipedia.org/wiki/Jefferson_Airplane){:target="_blank"}**
 - {% include ytplay.html id="SrGSt5eDt9o" t="Somebody to Love" %}
@@ -61,6 +61,9 @@ summary: >
 **[Jethro Tull](https://en.wikipedia.org/wiki/Jethro_Tull_(band)){:target="_blank"}**
 - {% include ytplay.html id="N4zPu3ISCGs" t="Aqualung" %}
 - {% include ytplay.html id="N2RNe2jwHE0" t="Bouree" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Bourrée_in_E_minor){:target=\"_blank\"}" %}
+
+**[J-Five](https://en.wikipedia.org/wiki/J-five){:target="_blank"} feat. [Charlie Chaplin](Charlie_Chaplin){:target="_blank"}**
+- {% include ytplay.html id="yxqj-R7Z0kw" t="Modern Times" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Modern_Times_(song)){:target=\"_blank\"}" %}
 
 **[Jimmy Somerville](https://en.wikipedia.org/wiki/Jimmy_Somerville){:target="_blank"}**
 - {% include ytplay.html id="kcZYD2XoOYo" t="To Love Somebody" %}
@@ -89,7 +92,6 @@ summary: >
 - {% include ytplay.html id="fVCAFvIq_F8" t="Et si tu n'existais pas" %}
 - {% include ytplay.html id="tDWeLlvYyYU" t="Les Champs-Élysées" %}
 - {% include ytplay.html id="tQb4eWCAq8c" t="L'Été indien" %}
-- {% include ytplay.html id="b_vDXrwTNOE" t="L'Été indien (Instrumental)" %}
 - {% include ytplay.html id="OlNC6gK2y0I" t="Salut" %}
 - {% include ytplay.html id="2fkWJmtQk8c" t="Siffler sur la colline" %}
 - {% include ytplay.html id="YdP4YkCBlms" t="Taka takata" %}
@@ -100,12 +102,6 @@ summary: >
 **[Joe Esposito](https://en.wikipedia.org/wiki/Joe_Esposito_(singer)){:target="_blank"}**
 - {% include ytplay.html id="0Q8az-0xnVA" t="Lady, Lady, Lady" %}
 
-**[Johnny Wakelin](https://en.wikipedia.org/wiki/Johnny_Wakelin){:target="_blank"}**
-- {% include ytplay.html id="GUpGRXT18R8" t="In Zaire" %}
-
-**[Johnny & The Hurricanes](https://en.wikipedia.org/wiki/Johnny_&_The_Hurricanes){:target="_blank"}**
-- {% include ytplay.html id="76OSOg5E_HE" t="Red River Rock" %}
-
 **[John Farnham](https://en.wikipedia.org/wiki/John_Farnham){:target="_blank"}**
 - {% include ytplay.html id="tbkOZTSvrHs" t="You're the Voice" %}
 
@@ -115,6 +111,12 @@ summary: >
 
 **[John Travolta](https://en.wikipedia.org/wiki/John_Travolta){:target="_blank"} & [Olivia Newton-John](https://en.wikipedia.org/wiki/Olivia_Newton-John){:target="_blank"}**
 - {% include ytplay.html id="itRFjzQICJU" t="You're the One That I Want" %}
+
+**[Johnny Wakelin](https://en.wikipedia.org/wiki/Johnny_Wakelin){:target="_blank"}**
+- {% include ytplay.html id="GUpGRXT18R8" t="In Zaire" %}
+
+**[Johnny & The Hurricanes](https://en.wikipedia.org/wiki/Johnny_&_The_Hurricanes){:target="_blank"}**
+- {% include ytplay.html id="76OSOg5E_HE" t="Red River Rock" %}
 
 **[Jonathan Coulton](https://en.wikipedia.org/wiki/Jonathan_Coulton){:target="_blank"} & [Ellen McLain](https://en.wikipedia.org/wiki/Ellen_McLain){:target="_blank"}**
 - {% include ytplay.html id="Y6ljFaKRTrI" t="Still Alive (Portal)" %}
@@ -132,6 +134,3 @@ summary: >
 **[Julio Iglesias](https://en.wikipedia.org/wiki/Julio_Iglesias){:target="_blank"}**
 - {% include ytplay.html id="xfdAW7Qa2r4" t="Nathalie" %}
 - {% include ytplay.html id="lmUR1pURL68" t="Nostalgie" %}
-
-**[J-Five](https://en.wikipedia.org/wiki/J-five){:target="_blank"} feat. [Charlie Chaplin](Charlie_Chaplin){:target="_blank"}**
-- {% include ytplay.html id="yxqj-R7Z0kw" t="Modern Times" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Modern_Times_(song)){:target=\"_blank\"}" %}

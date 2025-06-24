@@ -12,6 +12,9 @@ summary: >
   the Hoople, Movie Music, Mo-Do, Mr. President, Mr. Big, Mr. Mister,
   Mr. Zhivago, Mungo Jerry, Murray Head, Muse, Mylene Farmer
 ---
+**[Mad'House](https://en.wikipedia.org/wiki/Mad'House){:target="_blank"}**
+- {% include ytplay.html id="hcRuYs_qsKQ" t="Like a Prayer" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Like_a_Prayer_(song)#Cover_versions_and_usage){:target=\"_blank\"}" %}
+
 **[Madness](https://en.wikipedia.org/wiki/Madness_(band)){:target="_blank"}**
 - {% include ytplay.html id="yJf3ZShNtX4" t="Our House" %}
 
@@ -23,9 +26,6 @@ summary: >
 - {% include ytplay.html id="79fzeNUqQbQ" t="Like a Prayer" %}
 - {% include ytplay.html id="G333Is7VPOg" t="Papa Don't Preach" %}
 - {% include ytplay.html id="zyFzpBAZICc" t="You'll See" %}
-
-**[Mad'House](https://en.wikipedia.org/wiki/Mad'House){:target="_blank"}**
-- {% include ytplay.html id="hcRuYs_qsKQ" t="Like a Prayer" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Like_a_Prayer_(song)#Cover_versions_and_usage){:target=\"_blank\"}" %}
 
 **[Maggie Reilly](https://en.wikipedia.org/wiki/Maggie_Reilly){:target="_blank"}**
 - {% include ytplay.html id="hTyCLMA90xM" t="Everytime We Touch" %}
@@ -45,7 +45,7 @@ summary: >
 - {% include ytplay.html id="NaZSuwgydHc" t="Viens, viens" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Rain,_Rain,_Rain){:target=\"_blank\"}" %}
 
 **[Marie N](https://en.wikipedia.org/wiki/Marie_N){:target="_blank"}**
-- {% include ytplay.html id="_M-w89U8TEU" t="I Wanna (Eurovision-2002, Latvia)" %}
+- {% include ytplay.html id="_M-w89U8TEU" t="I Wanna" %} (Eurovision-2002, Latvia)
 
 **[Marillion](https://en.wikipedia.org/wiki/Marillion){:target="_blank"}**
 - {% include ytplay.html id="GA4ROLQF4cs" t="Kayleigh" %}
@@ -57,11 +57,14 @@ summary: >
 **[Marion](https://en.wikipedia.org/wiki/Marion_Rung){:target="_blank"}**
 - {% include ytplay.html id="Zcca5I-26nk" t="Halleluja" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Hallelujah_(Milk_and_Honey_song)){:target=\"_blank\"}" %}
 
+**[Mark & Clark Band](https://en.wikipedia.org/wiki/Worn_Down_Piano){:target="_blank"}**
+- {% include ytplay.html id="htvgBHVU2jE" t="Worn Down Piano" %}
+
 **[Mark Ronson & The Business Intl.](https://en.wikipedia.org/wiki/Mark_Ronson){:target="_blank"}**
 - {% include ytplay.html id="8aADQzs24GI" t="Somebody to Love Me" %} (feat. Boy George and Andrew Wyatt)
 
-**[Mark & Clark Band](https://en.wikipedia.org/wiki/Worn_Down_Piano){:target="_blank"}**
-- {% include ytplay.html id="htvgBHVU2jE" t="Worn Down Piano" %}
+**[Marmalade](https://en.wikipedia.org/wiki/Marmalade_(band)){:target="_blank"}**
+- {% include ytplay.html id="ax7J7HOP8II" t="Ob-La-Di, Ob-La-Da" %}
 
 **[Mary Hopkin](https://en.wikipedia.org/wiki/Mary_Hopkin){:target="_blank"}**
 - {% include ytplay.html id="JnxTT7XXMPA" t="Those Were the Days" %}
@@ -73,16 +76,16 @@ summary: >
 **[Mauro](https://www.discogs.com/artist/728404-Mauro-3){:target="_blank"}**
 - {% include ytplay.html id="yAknZXClXNg" t="Buona Sera Ciao, Ciao" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Buona_Sera){:target=\"_blank\"}" %}
 
-**[Maxi Priest](https://en.wikipedia.org/wiki/Maxi_Priest){:target="_blank"}**
-- {% include ytplay.html id="MbcPSXkRVgQ" t="Close to You" %}
-- {% include ytplay.html id="S4ZWD_0VRK8" t="Wild World" %}
-
 **[Max Raabe](https://en.wikipedia.org/wiki/Max_Raabe){:target="_blank"} & [Palast Orchester](https://en.wikipedia.org/wiki/Palast_Orchester){:target="_blank"}**
 - {% include ytplay.html id="6Pqx49DswmA" t="Dance with Me" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Hernando's_Hideaway){:target=\"_blank\"}" %}
 - {% include ytplay.html id="6RTnRrDnsGI" t="Mambo No. 5 (A Little Bit Of...)" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Mambo_No._5){:target=\"_blank\"}" %}
 - {% include ytplay.html id="qYr9kIyambE" t="Oops... I Did It Again" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(song)){:target=\"_blank\"}" %}
 - {% include ytplay.html id="BC20CSeBvlE" t="Supreme" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Supreme_(song)){:target=\"_blank\"}" %}
 - {% include ytplay.html id="nj46E348NhE" t="Tainted Love" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Tainted_Love){:target=\"_blank\"}" %}
+
+**[Maxi Priest](https://en.wikipedia.org/wiki/Maxi_Priest){:target="_blank"}**
+- {% include ytplay.html id="MbcPSXkRVgQ" t="Close to You" %}
+- {% include ytplay.html id="S4ZWD_0VRK8" t="Wild World" %}
 
 **[Maywood](https://en.wikipedia.org/wiki/Maywood_(duo)){:target="_blank"}**
 - {% include ytplay.html id="_63xQ8ge_54" t="Pasadena" %}
@@ -103,18 +106,17 @@ summary: >
 - {% include ytplay.html id="JBNYFvfRBoE" t="Metsakohin" %} {% include remark.html c="cover" %}
   <!-- TODO: find the source of this cover -->
 
-**[Melanie C](https://en.wikipedia.org/wiki/Melanie_C){:target="_blank"}**
-- {% include ytplay.html id="SXm0V5qnp9A" t="I Turn to You" %}
-
 **[Mel & Kim](https://en.wikipedia.org/wiki/Mel_&_Kim){:target="_blank"}**
 - {% include ytplay.html id="14b-BASNVdI" t="Showing Out (Get Fresh at the Weekend)" %}
+
+**[Melanie C](https://en.wikipedia.org/wiki/Melanie_C){:target="_blank"}**
+- {% include ytplay.html id="SXm0V5qnp9A" t="I Turn to You" %}
 
 **[Men at Work](https://en.wikipedia.org/wiki/Men_At_Work){:target="_blank"}**
 - {% include ytplay.html id="XfR9iY5y94s" t="Down Under" %}
 
 **[Metallica](https://en.wikipedia.org/wiki/Metallica){:target="_blank"}**
 - {% include ytplay.html id="tAGnKpE4NCI" t="Nothing Else Matters" %}
-- {% include ytplay.html id="XJQNntiOpjI" t="Orion (Instrumental)" %}
 - {% include ytplay.html id="Ckom3gf57Yw" t="The Unforgiven" %}
 
 **[Metisse](https://en.wikipedia.org/wiki/Metisse){:target="_blank"}**
@@ -150,7 +152,7 @@ summary: >
 - {% include ytplay.html id="H7m1PO7wvYM" t="Over My Shoulder" %}
 
 **[Milk and Honey](https://en.wikipedia.org/wiki/Milk_and_Honey_(Israeli_group)){:target="_blank"} with [Gali Atari](https://en.wikipedia.org/wiki/Gali_Atari){:target="_blank"}**
-- {% include ytplay.html id="jKbvuYRR35E" t="Hallelujah (Eurovision-1979, Israel)" %}
+- {% include ytplay.html id="jKbvuYRR35E" t="Hallelujah" %} (Eurovision-1979, Israel)
 
 **[Milva](https://en.wikipedia.org/wiki/Milva){:target="_blank"}**
 - {% include ytplay.html id="Cy4h-5qdpoc" t="Alexanderplatz" %}
@@ -170,21 +172,20 @@ summary: >
 **[Mireille Mathieu](https://en.wikipedia.org/wiki/Mireille_Mathieu){:target="_blank"} et [Charles Aznavour](https://en.wikipedia.org/wiki/Charles_Aznavour){:target="_blank"}**
 - {% include ytplay.html id="NHl-piDm0bg" t="Une vie d'amour" %}
 
+**[Mo-Do](https://en.wikipedia.org/wiki/Mo-Do){:target="_blank"}**
+- {% include ytplay.html id="dSy2DcATYUo" t="Eins, Zwei, Polizei" %}
+
 **[Modern Talking](https://en.wikipedia.org/wiki/Modern_Talking){:target="_blank"}**
 - {% include ytplay.html id="HSr324yfGuI" t="Angie's Heart" %}
 - {% include ytplay.html id="CB57CuT4smM" t="Atlantis Is Calling (S.O.S. For Love)" %}
-- {% include ytplay.html id="W_aeYeFp3Bc" t="Atlantis Is Calling (Instrumental)" %}
 - {% include ytplay.html id="9kFiMq-74EU" t="Bells of Paris" %}
 - {% include ytplay.html id="Lp2qcCrdBLA" t="Brother Louie" %}
-- {% include ytplay.html id="0J97LO3kS5g" t="Brother Louie (Instrumental)" %}
 - {% include ytplay.html id="eNvUS-6PTbs" t="Cheri, Cheri Lady" %}
-- {% include ytplay.html id="gO293D3LX8M" t="Cheri, Cheri Lady (Instrumental)" %}
 - {% include ytplay.html id="Gzz_LGGY8fU" t="Diamonds Never Made a Lady" %}
 - {% include ytplay.html id="gK2bucEherc" t="Doctor for My Heart" %}
 - {% include ytplay.html id="guo2M7OBWnQ" t="Don't Give Up" %}
 - {% include ytplay.html id="olkZSvutCWE" t="Do You Wanna" %}
 - {% include ytplay.html id="A5C8AC6V2KQ" t="Geronimo's Cadillac" %}
-- {% include ytplay.html id="wy_jBcC48XU" t="Geronimo's Cadillac (Instrumental)" %}
 - {% include ytplay.html id="qz2tFpcZ-BQ" t="Give Me Peace on Earth" %}
 - {% include ytplay.html id="ZgRF3tImYEQ" t="Heaven Will Know" %}
 - {% include ytplay.html id="9u4uISghkr0" t="Jet Airliner" %}
@@ -203,7 +204,6 @@ summary: >
 - {% include ytplay.html id="kuwdXhjPmyc" t="You Are Not Alone" %}
 - {% include ytplay.html id="oxM8Kf5SeiA" t="You Can Win If You Want" %}
 - {% include ytplay.html id="4kHl4FoK1Ys" t="You're My Heart, You're My Soul" %}
-- {% include ytplay.html id="dXP-2rE6Fb8" t="You're My Heart, You're My Soul (Instrumental)" %}
 
 **[Modern Trouble](https://en.wikipedia.org/wiki/Modern_Trouble){:target="_blank"}**
 - {% include ytplay.html id="aEi2mfwPqBg" t="Fly to Moscow (Mathias Rust)" %}
@@ -240,18 +240,15 @@ summary: >
 **[Movie Music](https://www.discogs.com/artist/484225-Movie-Music){:target="_blank"}**
 - {% include ytplay.html id="e_rPbaLmzSM" t="Stars De La Pub (L'Avion Décolle Sur Les Champs Elysées...)" %}
 
-**[Mo-Do](https://en.wikipedia.org/wiki/Mo-Do){:target="_blank"}**
-- {% include ytplay.html id="dSy2DcATYUo" t="Eins, Zwei, Polizei" %}
-
-**[Mr. President](https://en.wikipedia.org/wiki/Mr._President_(band)){:target="_blank"}**
-- {% include ytplay.html id="EScLmWJs82I" t="Coco Jambo" %}
-
 **[Mr. Big](https://en.wikipedia.org/wiki/Mr._Big_(American_band)){:target="_blank"}**
 - {% include ytplay.html id="L6-uJLteKek" t="To Be with You" %}
 - {% include ytplay.html id="Za9LY6Q3EuI" t="Wild World" %}
 
 **[Mr. Mister](https://en.wikipedia.org/wiki/Mr._Mister){:target="_blank"}**
 - {% include ytplay.html id="nKhN1t_7PEY" t="Broken Wings" %}
+
+**[Mr. President](https://en.wikipedia.org/wiki/Mr._President_(band)){:target="_blank"}**
+- {% include ytplay.html id="EScLmWJs82I" t="Coco Jambo" %}
 
 **[Mr. Zhivago](https://en.wikipedia.org/wiki/Mr._Zhivago){:target="_blank"}**
 - {% include ytplay.html id="SNHQW5P3l4A" t="Little Russian" %}

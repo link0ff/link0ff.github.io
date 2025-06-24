@@ -30,11 +30,6 @@ summary: >
 **[Salvatore Adamo](https://en.wikipedia.org/wiki/Salvatore_Adamo){:target="_blank"}**
 - {% include ytplay.html id="oNLmwz8A9_I" t="Tombe la neige" %}
 
-**[Samantha Fox](https://en.wikipedia.org/wiki/Samantha_Fox){:target="_blank"}**
-- {% include ytplay.html id="EYFXLL09_9w" t="I Only Wanna Be with You" %}
-- {% include ytplay.html id="0jPDHm4JOzI" t="Nothing's Gonna Stop Me Now" %}
-- {% include ytplay.html id="W1btg3mpEOc" t="Touch Me" %}
-
 **[Sam Brown](https://en.wikipedia.org/wiki/Sam_Brown_(singer)){:target="_blank"}**
 - {% include ytplay.html id="muDZD3wgoHI" t="Stop!" %}
 
@@ -43,6 +38,11 @@ summary: >
 
 **[Sam the Sham & The Pharaohs](https://en.wikipedia.org/wiki/Sam_the_Sham_&_The_Pharaohs){:target="_blank"}**
 - {% include ytplay.html id="Pv5cXss5cPg" t="Wooly Bully" %}
+
+**[Samantha Fox](https://en.wikipedia.org/wiki/Samantha_Fox){:target="_blank"}**
+- {% include ytplay.html id="EYFXLL09_9w" t="I Only Wanna Be with You" %}
+- {% include ytplay.html id="0jPDHm4JOzI" t="Nothing's Gonna Stop Me Now" %}
+- {% include ytplay.html id="W1btg3mpEOc" t="Touch Me" %}
 
 **[Sandie Shaw](https://en.wikipedia.org/wiki/Sandie_Shaw){:target="_blank"}**
 - {% include ytplay.html id="Ga1kMdJCc_Q" t="Puppet on a String" %}
@@ -58,14 +58,14 @@ summary: >
 - {% include ytplay.html id="qwrrpBc7xWA" t="(I'll Never Be) Maria Magdalena" %}
 - {% include ytplay.html id="d5C7AmN48Zo" t="Stop for a Minute" %}
 
+**[Santa Esmeralda](https://en.wikipedia.org/wiki/Santa_Esmeralda){:target="_blank"}**
+- {% include ytplay.html id="uvXeeus94GY" t="Don't Let Me Be Misunderstood" %}
+
 **[Santabárbara](https://es.wikipedia.org/wiki/Santabárbara_(banda)){:target="_blank"}**
 - {% include ytplay.html id="wEBPiDCALFQ" t="Charly" %}
 
 **[Santana](https://en.wikipedia.org/wiki/Santana_(band)){:target="_blank"}**
 - {% include ytplay.html id="6Whgn_iE5uc" t="Smooth" %} (feat. [Rob Thomas](https://en.wikipedia.org/wiki/Rob_Thomas_(musician)){:target="_blank"})
-
-**[Santa Esmeralda](https://en.wikipedia.org/wiki/Santa_Esmeralda){:target="_blank"}**
-- {% include ytplay.html id="uvXeeus94GY" t="Don't Let Me Be Misunderstood" %}
 
 **[Sarah Brightman](https://en.wikipedia.org/wiki/Sarah_Brightman){:target="_blank"}**
 - {% include ytplay.html id="WYc5Y_7Q5wI" t="Anytime, Anywhere" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Adagio_in_G_minor){:target=\"_blank\"}" %}
@@ -85,7 +85,7 @@ summary: >
 - {% include ytplay.html id="L9R2A3gNkpk" t="From Sarah with Love" %}
 
 **[Sarit Hadad](https://en.wikipedia.org/wiki/Sarit_Hadad){:target="_blank"}**
-- {% include ytplay.html id="bRAtcz8ANzc" t="Nadlik Beyakhad Ner, Let's Light a Candle Together (Eurovision-2002, Israel)" %}
+- {% include ytplay.html id="bRAtcz8ANzc" t="Nadlik Beyakhad Ner, Let's Light a Candle Together" %} (Eurovision-2002, Israel)
 
 **[Sash!](https://en.wikipedia.org/wiki/Sash!){:target="_blank"}**
 - {% include ytplay.html id="9cQlVww0zKo" t="Ecuador" %}
@@ -132,6 +132,9 @@ summary: >
 - {% include ytplay.html id="zESKng3g188" t="Ten O'Clock Postman" %}
 - {% include ytplay.html id="doVzttjhpvg" t="Walking" %}
 - {% include ytplay.html id="7llk73NiVHU" t="When the Night Closes In" %}
+
+**[S'Express](https://en.wikipedia.org/wiki/S'Express){:target="_blank"}**
+- {% include ytplay.html id="IpeRShWMdYM" t="Theme from S'Express" %}
 
 **[Shaggy](https://en.wikipedia.org/wiki/Shaggy_(musician)){:target="_blank"}**
 - {% include ytplay.html id="BtLqmWt2h2g" t="Oh Carolina" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Oh_Carolina){:target=\"_blank\"}" %}
@@ -217,6 +220,9 @@ summary: >
 **[Soft Cell](https://en.wikipedia.org/wiki/Soft_Cell){:target="_blank"}**
 - {% include ytplay.html id="XZVpR3Pk-r8" t="Tainted Love" %} {% include remark.html c="sounds like Depeche Mode" %}
 
+**[Solistiyhtye Suomi](https://en.wikipedia.org/wiki/Njet_Molotoff){:target="_blank"}**
+- {% include ytplay.html id="WNtgV4J-ayA" t="Njet Molotoff" %}
+
 **[Songs of Green Pheasant](https://en.wikipedia.org/wiki/Songs_of_Green_Pheasant){:target="_blank"}**
 - {% include ytplay.html id="ZI7C_PKin5k" t="The Burning Man" %}
 
@@ -251,14 +257,14 @@ summary: >
 **[Stampeders](https://en.wikipedia.org/wiki/Stampeders){:target="_blank"}**
 - {% include ytplay.html id="cUAAVNq4FMM" t="Hit the Road Jack" %}
 
-**[Starship](https://en.wikipedia.org/wiki/Starship_(band)){:target="_blank"}**
-- {% include ytplay.html id="3wxyN3z9PL4" t="Nothing's Gonna Stop Us Now" %}
-- {% include ytplay.html id="K1b8AhIsSYQ" t="We Built This City" %}
-
 **[Stars On 45](https://en.wikipedia.org/wiki/Stars_On_45){:target="_blank"}**
 - {% include ytplay.html id="rFdgrswxWhk" t="Abba Medley" %}
 - {% include ytplay.html id="WE3muEthvEk" t="Club Hits" %}
 - {% include ytplay.html id="7skQvj-aBV8" t="Stars On 45" %}
+
+**[Starship](https://en.wikipedia.org/wiki/Starship_(band)){:target="_blank"}**
+- {% include ytplay.html id="3wxyN3z9PL4" t="Nothing's Gonna Stop Us Now" %}
+- {% include ytplay.html id="K1b8AhIsSYQ" t="We Built This City" %}
 
 **[Status Quo](https://en.wikipedia.org/wiki/Status_Quo_(band)){:target="_blank"}**
 - {% include ytplay.html id="-l9h_gxznBc" t="Burning Bridges" %}
@@ -334,6 +340,3 @@ summary: >
 
 **[Systems in Blue](https://en.wikipedia.org/wiki/Systems_in_Blue){:target="_blank"}**
 - {% include ytplay.html id="TUuTCxvWxgM" t="Magic Mystery" %}
-
-**[S'Express](https://en.wikipedia.org/wiki/S'Express){:target="_blank"}**
-- {% include ytplay.html id="IpeRShWMdYM" t="Theme from S'Express" %}

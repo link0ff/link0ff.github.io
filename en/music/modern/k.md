@@ -5,9 +5,6 @@ summary: >
   Kelly Family, Kim Appleby, Kim Carnes, Kim Wilde, Kinderlieder, Kiss,
   Kokomo, Kool & the Gang, Kraftwerk, Kula Shaker, Kylie Minogue
 ---
-**[KC & The Sunshine Band](https://en.wikipedia.org/wiki/KC_&_The_Sunshine_Band){:target="_blank"}**
-- {% include ytplay.html id="O0_H3F84Yjk" t="That's the Way I Like It" %}
-
 **[Kansas](https://en.wikipedia.org/wiki/Kansas_(band)){:target="_blank"}**
 - {% include ytplay.html id="tH2w6Oxx0kQ" t="Dust in the Wind" %}
 
@@ -23,6 +20,9 @@ summary: >
 
 **[Katy Perry](https://en.wikipedia.org/wiki/Katy_Perry){:target="_blank"}**
 - {% include ytplay.html id="QGJuMBdaqIw" t="Firework" %}
+
+**[KC & The Sunshine Band](https://en.wikipedia.org/wiki/KC_&_The_Sunshine_Band){:target="_blank"}**
+- {% include ytplay.html id="O0_H3F84Yjk" t="That's the Way I Like It" %}
 
 **[Kelly Family](https://en.wikipedia.org/wiki/Kelly_Family){:target="_blank"}**
 - {% include ytplay.html id="aUpmd4nm7YM" t="An Angel" %}

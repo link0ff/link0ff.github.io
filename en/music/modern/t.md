@@ -21,9 +21,6 @@ summary: >
   Tony Esposito, Tony Holiday, Tony Silvester & New Ingredient, Toto,
   Toto Cutugno, Trini Lopez, Trio, Twisted Sister, Two Cowboys, T. Rex
 ---
-**[TLC](https://en.wikipedia.org/wiki/TLC_(group)){:target="_blank"}**
-- {% include ytplay.html id="FrLequ6dUdM" t="No Scrubs" %}
-
 **[Taco](https://en.wikipedia.org/wiki/Taco_(musician)){:target="_blank"}**
 - {% include ytplay.html id="YsGjFh1ke44" t="Puttin' on the Ritz" %}
 
@@ -346,6 +343,9 @@ summary: >
 - {% include ytplay.html id="Gcm-tOGiva0" t="We Don't Need Another Hero (Thunderdome)" %}
 - {% include ytplay.html id="oGpFcHTxjZs" t="What's Love Got to Do with It" %}
 
+**[TLC](https://en.wikipedia.org/wiki/TLC_(group)){:target="_blank"}**
+- {% include ytplay.html id="FrLequ6dUdM" t="No Scrubs" %}
+
 **[Tom Jones](https://en.wikipedia.org/wiki/Tom_Jones_(singer)){:target="_blank"}**
 - {% include ytplay.html id="MIIU9xkGAMs" t="Delilah" %}
 - {% include ytplay.html id="WZ32gSLNHfA" t="Sex Bomb" %}
@@ -380,6 +380,12 @@ summary: >
 - {% include ytplay.html id="74pbi9jEUBE" t="Soli" %}
 - {% include ytplay.html id="TiCMc4CW0dc" t="Solo noi" %}
 
+**[T. Rex](https://en.wikipedia.org/wiki/T._Rex_(band)){:target="_blank"}**
+- {% include ytplay.html id="PP2FyYSUJ54" t="Children of the Revolution" %}
+- {% include ytplay.html id="wZkTh_T75QY" t="Get It On" %}
+- {% include ytplay.html id="fwC-GUHL2gU" t="Hot Love" %}
+- {% include ytplay.html id="HKt_bBvJDzg" t="Metal Guru" %}
+
 **[Trini Lopez](https://en.wikipedia.org/wiki/Trini_Lopez){:target="_blank"}**
 - {% include ytplay.html id="ygk5UaoUuls" t="La Bamba" %}
 
@@ -391,9 +397,3 @@ summary: >
 
 **[Two Cowboys](https://en.wikipedia.org/wiki/2_Cowboys){:target="_blank"}**
 - {% include ytplay.html id="jiW8QQnm7xI" t="Everybody Gonfi-Gon (Costa Del Sol Mix)" %}
-
-**[T. Rex](https://en.wikipedia.org/wiki/T._Rex_(band)){:target="_blank"}**
-- {% include ytplay.html id="PP2FyYSUJ54" t="Children of the Revolution" %}
-- {% include ytplay.html id="wZkTh_T75QY" t="Get It On" %}
-- {% include ytplay.html id="fwC-GUHL2gU" t="Hot Love" %}
-- {% include ytplay.html id="HKt_bBvJDzg" t="Metal Guru" %}

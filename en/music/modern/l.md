@@ -9,6 +9,10 @@ summary: >
   Loft, London Beat, London Boys, Loona, Lordi, Los Del Rio, Los Lobos,
   Louis Armstrong, Lou Bega, Lou Reed, Lulu, Luniz
 ---
+**[La Bouche](https://en.wikipedia.org/wiki/La_Bouche){:target="_blank"}**
+- {% include ytplay.html id="ViP87WipSm0" t="Be My Lover" %}
+- {% include ytplay.html id="qnVf1swLrt4" t="Where Do You Go" %}
+
 **[Labelle](https://en.wikipedia.org/wiki/Labelle){:target="_blank"}**
 - {% include ytplay.html id="t4LWIP7SAjY" t="Lady Marmalade" %}
 
@@ -22,21 +26,17 @@ summary: >
 **[Lara Fabian](https://en.wikipedia.org/wiki/Lara_Fabian){:target="_blank"}**
 - {% include ytplay.html id="NAWQxIq-9-Q" t="Adagio" %}
 
-**[Lasse Mårtenson](https://en.wikipedia.org/wiki/Lasse_Mårtenson){:target="_blank"}**
-- {% include ytplay.html id="3tmRYUAHTKg" t="Rikas mies jos oisin" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/If_I_Were_a_Rich_Man_(song)){:target=\"_blank\"}" %}
-
 **[Las Ketchup](https://en.wikipedia.org/wiki/Las_Ketchup){:target="_blank"}**
 - {% include ytplay.html id="AMT698ArSfQ" t="The Ketchup Song (Aserejé)" %}
+
+**[Lasse Mårtenson](https://en.wikipedia.org/wiki/Lasse_Mårtenson){:target="_blank"}**
+- {% include ytplay.html id="3tmRYUAHTKg" t="Rikas mies jos oisin" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/If_I_Were_a_Rich_Man_(song)){:target=\"_blank\"}" %}
 
 **[Laura Branigan](https://en.wikipedia.org/wiki/Laura_Branigan){:target="_blank"}**
 - {% include ytplay.html id="RP0_8J7uxhs" t="Self Control" %}
 
 **[Lauren Christy](https://en.wikipedia.org/wiki/Lauren_Christy){:target="_blank"}**
 - {% include ytplay.html id="hhxWBmH-Hj4" t="The Color of the Night" %}
-
-**[La Bouche](https://en.wikipedia.org/wiki/La_Bouche){:target="_blank"}**
-- {% include ytplay.html id="ViP87WipSm0" t="Be My Lover" %}
-- {% include ytplay.html id="qnVf1swLrt4" t="Where Do You Go" %}
 
 **[Led Zeppelin](https://en.wikipedia.org/wiki/Led_Zeppelin){:target="_blank"}**
 - {% include ytplay.html id="P3Y8OWkiUts" t="Immigrant Song" %}
@@ -58,14 +58,18 @@ summary: >
 - {% include ytplay.html id="ttEMYvpoR-k" t="Hallelujah" %}
 - {% include ytplay.html id="LXvG0SMP7tw" t="Waiting for the Miracle" %}
 
-**[Lesley Gore](https://en.wikipedia.org/wiki/Lesley_Gore){:target="_blank"}**
-- {% include ytplay.html id="mtCIdpnQoWk" t="It's My Party" %}
-
 **[Les Baxter](https://en.wikipedia.org/wiki/Les_Baxter){:target="_blank"}**
 - {% include ytplay.html id="nHEpxXUraQc" t="Unchained Melody" %}
 
+**[Les Humphries Singers](https://en.wikipedia.org/wiki/Les_Humphries_Singers){:target="_blank"}**
+- {% include ytplay.html id="8Tw36hzJC1c" t="Mama Loo" %}
+- {% include ytplay.html id="oKrCmj22XUo" t="Mexico" %}
+
 **[Les McKeown](https://en.wikipedia.org/wiki/Les_McKeown){:target="_blank"}**
 - {% include ytplay.html id="2hLvnjnWBlA" t="She's a Lady" %}
+
+**[Lesley Gore](https://en.wikipedia.org/wiki/Lesley_Gore){:target="_blank"}**
+- {% include ytplay.html id="mtCIdpnQoWk" t="It's My Party" %}
 
 **[Level 42](https://en.wikipedia.org/wiki/Level_42){:target="_blank"}**
 - {% include ytplay.html id="9x1RcVrGjGM" t="Lessons in Love" %}
@@ -131,6 +135,12 @@ summary: >
 **[Los Lobos](https://en.wikipedia.org/wiki/Los_Lobos){:target="_blank"} & [Antonio Banderas](https://en.wikipedia.org/wiki/Antonio_Banderas){:target="_blank"}**
 - {% include ytplay.html id="1nA6f6vDxtg" t="Canción Del Mariachi" %}
 
+**[Lou Bega](https://en.wikipedia.org/wiki/Lou_Bega){:target="_blank"}**
+- {% include ytplay.html id="EK_LN3XEcnw" t="Mambo No. 5" %}
+
+**[Lou Reed](https://en.wikipedia.org/wiki/Lou_Reed){:target="_blank"}**
+- {% include ytplay.html id="oG6fayQBm9w" t="Walk on the Wild Side" %}
+
 **[Louis Armstrong](https://en.wikipedia.org/wiki/Louis_Armstrong){:target="_blank"}**
 - {% include ytplay.html id="vf6jBP4YXwo" t="Go Down Moses (Let My People Go)" %}
 - {% include ytplay.html id="Kx2AYFvwxKY" t="Hello, Dolly!" %}
@@ -138,12 +148,6 @@ summary: >
 
 **[Louis Armstrong](https://en.wikipedia.org/wiki/Louis_Armstrong){:target="_blank"} & [Ella Fitzgerald](https://en.wikipedia.org/wiki/Ella_Fitzgerald){:target="_blank"}**
 - {% include ytplay.html id="J2oEmPP5dTM" t="Let's Call the Whole Thing Off" %}
-
-**[Lou Bega](https://en.wikipedia.org/wiki/Lou_Bega){:target="_blank"}**
-- {% include ytplay.html id="EK_LN3XEcnw" t="Mambo No. 5" %}
-
-**[Lou Reed](https://en.wikipedia.org/wiki/Lou_Reed){:target="_blank"}**
-- {% include ytplay.html id="oG6fayQBm9w" t="Walk on the Wild Side" %}
 
 **[Lulu](https://en.wikipedia.org/wiki/Lulu_(singer)){:target="_blank"} & [David Bowie](https://en.wikipedia.org/wiki/David_Bowie){:target="_blank"}**
 - {% include ytplay.html id="TyFAnA9oPRE" t="The Man Who Sold the World" %}

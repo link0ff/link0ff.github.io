@@ -11,9 +11,6 @@ summary: >
 **[Eagles](https://en.wikipedia.org/wiki/Eagles_(band)){:target="_blank"}**
 - {% include ytplay.html id="dLl4PZtxia8" t="Hotel California" %}
 
-**[Eartha Kitt](https://en.wikipedia.org/wiki/Eartha_Kitt){:target="_blank"}**
-- {% include ytplay.html id="n6AVaEYy-TQ" t="Where Is My Man" %}
-
 **[Earth & Fire](https://en.wikipedia.org/wiki/Earth_&_Fire){:target="_blank"}**
 - {% include ytplay.html id="d0vT-ERKSFs" t="Memories" %}
 - {% include ytplay.html id="4iK5e76auJA" t="Weekend" %}
@@ -21,6 +18,9 @@ summary: >
 **[Earth, Wind & Fire](https://en.wikipedia.org/wiki/Earth,_Wind_&_Fire){:target="_blank"}**
 - {% include ytplay.html id="Lrle0x_DHBM" t="Let's Groove" %}
 - {% include ytplay.html id="Gs069dndIYk" t="September" %}
+
+**[Eartha Kitt](https://en.wikipedia.org/wiki/Eartha_Kitt){:target="_blank"}**
+- {% include ytplay.html id="n6AVaEYy-TQ" t="Where Is My Man" %}
 
 **[East 17](https://en.wikipedia.org/wiki/East_17){:target="_blank"}**
 - {% include ytplay.html id="tP_WRk-xV7I" t="It's Alright" %}
@@ -46,6 +46,9 @@ summary: >
 **[Eiffel 65](https://en.wikipedia.org/wiki/Eiffel_65){:target="_blank"}**
 - {% include ytplay.html id="68ugkg9RePc" t="Blue" %}
 
+**[El Pasador](https://en.wikipedia.org/wiki/El_Pasador){:target="_blank"}**
+- {% include ytplay.html id="V6NEUh0Rx9I" t="Amada Mia, Amore Mio" %}
+
 **[Elaine Paige](https://en.wikipedia.org/wiki/Elaine_Paige){:target="_blank"}**
 - {% include ytplay.html id="mdBVJbzkoqo" t="Memory (Cats)" %}
 
@@ -66,6 +69,9 @@ summary: >
 - {% include ytplay.html id="BDhJU_cNCZE" t="Turn to Stone" %}
 - {% include ytplay.html id="cLi8fTlDEag" t="Xanadu (with Olivia Newton-John)" %}
 
+**[Ella Fitzgerald](https://en.wikipedia.org/wiki/Ella_Fitzgerald){:target="_blank"}**
+- {% include ytplay.html id="6IVg0uYNYZQ" t="When I Get Low I Get High" %}
+
 **[Elton John](https://en.wikipedia.org/wiki/Elton_John){:target="_blank"}**
 - {% include ytplay.html id="75r0nQu-hMs" t="Crocodile Rock" %}
 - {% include ytplay.html id="wy709iNG6i8" t="Goodbye Yellow Brick Road" %}
@@ -78,9 +84,6 @@ summary: >
 - {% include ytplay.html id="vGJTaP6anOU" t="Can't Help Falling in Love" %}
 - {% include ytplay.html id="gj0Rz-uP4Mk" t="Jailhouse Rock" %}
 - {% include ytplay.html id="-9dtQzg7gDM" t="Love Me Tender" %}
-
-**[El Pasador](https://en.wikipedia.org/wiki/El_Pasador){:target="_blank"}**
-- {% include ytplay.html id="V6NEUh0Rx9I" t="Amada Mia, Amore Mio" %}
 
 **[Emilia](https://en.wikipedia.org/wiki/Emilia_Rydberg){:target="_blank"}**
 - {% include ytplay.html id="wpkS2DU_qMs" t="Big Big World" %}
@@ -99,12 +102,12 @@ summary: >
 - {% include ytplay.html id="7wfYIMyS_dI" t="Only Time" %}
 - {% include ytplay.html id="LTrk4X9ACtw" t="Orinoco Flow" %}
 
+**[Era](https://en.wikipedia.org/wiki/Era_(musical_project)){:target="_blank"}**
+- {% include ytplay.html id="onjPLuZp6hY" t="Ameno" %}
+
 **[Erasure](https://en.wikipedia.org/wiki/Erasure){:target="_blank"}**
 - {% include ytplay.html id="lWqJTKdznaM" t="Always" %}
 - {% include ytplay.html id="ygLy02y7_n8" t="Love to Hate You" %}
-
-**[Era](https://en.wikipedia.org/wiki/Era_(musical_project)){:target="_blank"}**
-- {% include ytplay.html id="onjPLuZp6hY" t="Ameno" %}
 
 **[Eric Carmen](https://en.wikipedia.org/wiki/Eric_Carmen){:target="_blank"}**
 - {% include ytplay.html id="iN9CjAfo5n0" t="All by Myself" %}
@@ -135,9 +138,12 @@ summary: >
 **[Eternal](https://en.wikipedia.org/wiki/Eternal_(group)){:target="_blank"} && [BeBe Winans](https://en.wikipedia.org/wiki/BeBe_Winans){:target="_blank"}**
 - {% include ytplay.html id="UwoRPP3_clY" t="I Wanna Be the Only One" %}
 
+**[E-Type](https://en.wikipedia.org/wiki/E-Type){:target="_blank"}**
+- {% include ytplay.html id="Z1qK7Q4Xfy0" t="Angels Crying" %}
+- {% include ytplay.html id="K9Tw8baMPpM" t="Set the World on Fire" %}
+
 **[Europe](https://en.wikipedia.org/wiki/Europe_(band)){:target="_blank"}**
 - {% include ytplay.html id="9jK-NcRmVcw" t="The Final Countdown" %}
-- {% include ytplay.html id="OFOv1FiZoWI" t="The Final Countdown (Instrumental)" %}
 - {% include ytplay.html id="3jzDGzpYuWA" t="Rock the Night" %}
 - {% include ytplay.html id="KmWE9UBFwtY" t="Carrie" %}
 - {% include ytplay.html id="wzmJrVSA3Mg" t="Cherokee" %}
@@ -177,7 +183,3 @@ summary: >
 
 **[Extreme](https://en.wikipedia.org/wiki/Extreme_(band)){:target="_blank"}**
 - {% include ytplay.html id="UrIiLvg58SY" t="More Than Words" %}
-
-**[E-Type](https://en.wikipedia.org/wiki/E-Type){:target="_blank"}**
-- {% include ytplay.html id="Z1qK7Q4Xfy0" t="Angels Crying" %}
-- {% include ytplay.html id="K9Tw8baMPpM" t="Set the World on Fire" %}

@@ -37,12 +37,19 @@ summary: >
 **[Foreigner](https://en.wikipedia.org/wiki/Foreigner_(band)){:target="_blank"}**
 - {% include ytplay.html id="r3Pr1_v7hsw" t="I Want to Know What Love Is" %}
 
-**[Francesco Napoli](https://de.wikipedia.org/wiki/Francesco_Napoli){:target="_blank"}**
-- {% include ytplay.html id="iYQDSoClnf0" t="Balla" %}
-
 **[France Gall](https://en.wikipedia.org/wiki/France_Gall){:target="_blank"}**
 - {% include ytplay.html id="lgHGU8gqz9U" t="Ella, elle l'a" %}
 - {% include ytplay.html id="PyFnDf8PvmU" t="Poupée de cire, poupée de son" %}
+
+**[Francesco Napoli](https://de.wikipedia.org/wiki/Francesco_Napoli){:target="_blank"}**
+- {% include ytplay.html id="iYQDSoClnf0" t="Balla" %}
+
+**[Frank](https://en.wikipedia.org/wiki/Frank_(soundtrack)){:target="_blank"}**
+- {% include ytplay.html id="zOt6ppIBOd4" t="I Love You All" %}
+
+**[Frank Sinatra](https://en.wikipedia.org/wiki/Frank_Sinatra){:target="_blank"}**
+- {% include ytplay.html id="0f48fpoSEPU" t="Somethin' Stupid" %} with [Nancy Sinatra](https://en.wikipedia.org/wiki/Nancy_Sinatra){:target="_blank"}
+- {% include ytplay.html id="Fd_3EkGr0-4" t="Strangers in the Night" %}
 
 **[Frankie Goes to Hollywood](https://en.wikipedia.org/wiki/Frankie_Goes_To_Hollywood){:target="_blank"}**
 - {% include ytplay.html id="Yem_iEHiyJ0" t="Relax" %}
@@ -50,12 +57,8 @@ summary: >
 **[Frankie Valli](https://en.wikipedia.org/wiki/Frankie_Valli){:target="_blank"} and [the Four Seasons](https://en.wikipedia.org/wiki/The_Four_Seasons_(band)){:target="_blank"}**
 - {% include ytplay.html id="J36z7AnhvOM" t="Can't Take My Eyes Off of You" %}
 
-**[Frank Sinatra](https://en.wikipedia.org/wiki/Frank_Sinatra){:target="_blank"}**
-- {% include ytplay.html id="0f48fpoSEPU" t="Somethin' Stupid" %} with [Nancy Sinatra](https://en.wikipedia.org/wiki/Nancy_Sinatra){:target="_blank"}
-- {% include ytplay.html id="Fd_3EkGr0-4" t="Strangers in the Night" %}
-
-**[Frank](https://en.wikipedia.org/wiki/Frank_(soundtrack)){:target="_blank"}**
-- {% include ytplay.html id="zOt6ppIBOd4" t="I Love You All" %}
+**[F. R. David](https://en.wikipedia.org/wiki/F._R._David){:target="_blank"}**
+- {% include ytplay.html id="PTsSk0r_Tq8" t="Words" %}
 
 **[Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury){:target="_blank"}**
 - {% include ytplay.html id="DedaEVIbTkY" t="Livin On My Own" %}
@@ -71,6 +74,3 @@ summary: >
 
 **[Fun Fun](https://en.wikipedia.org/wiki/Fun_Fun){:target="_blank"}**
 - {% include ytplay.html id="lnBbzAmFx8g" t="Happy Station" %}
-
-**[F. R. David](https://en.wikipedia.org/wiki/F._R._David){:target="_blank"}**
-- {% include ytplay.html id="PTsSk0r_Tq8" t="Words" %}

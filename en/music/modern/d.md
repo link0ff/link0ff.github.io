@@ -9,12 +9,6 @@ summary: >
   Straits, Donna Summer, Don McLean, Doop, Doris D & The Pins, Dr. Alban, Dr. Hook,
   Dr. John, Dschinghis Khan, Duran Duran, Dusty Springfield, DÖF
 ---
-**[DJ BoBo](https://en.wikipedia.org/wiki/DJ_BoBo){:target="_blank"}**
-- {% include ytplay.html id="rAnmLLRphqo" t="Somebody Dance with Me" %}
-
-**[DJ Gollum](https://www.discogs.com/artist/20436-DJ-Gollum){:target="_blank"}**
-- {% include ytplay.html id="dQZzVbcPPzA" t="Poison (DJ THT & Ced Tecknoboy Radio Edit)" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Poison_(Alice_Cooper_song)){:target=\"_blank\"}" %}
-
 **[Dalida](https://en.wikipedia.org/wiki/Dalida){:target="_blank"}**
 - {% include ytplay.html id="2TtD6iDlEHo" t="Besame mucho" %}
 - {% include ytplay.html id="jFqfJJ3ExrY" t="Itsi bitsi petit bikini" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Itsy_Bitsy_Teenie_Weenie_Yellow_Polkadot_Bikini){:target=\"_blank\"}" %}
@@ -38,20 +32,20 @@ summary: >
 **[Danuta](https://en.wikipedia.org/wiki/Danuta_Lato){:target="_blank"}**
 - {% include ytplay.html id="SKJhl8Jq54w" t="Touch My Heart" %}
 
-**[Dash Berlin with Cerf, Mitiska & Jaren](https://www.discogs.com/master/2382-Dash-Berlin-With-Cerf-Mitiska-Jaren-Man-On-The-Run){:target="_blank"}**
-- {% include ytplay.html id="jySYvf2fm68" t="Man on the Run" %} {% include remark.html c="vocal trance" %}
-
 **[Das Modul](https://de.wikipedia.org/wiki/Das_Modul_(Band)){:target="_blank"}**
 - {% include ytplay.html id="oV6DsjmtBuQ" t="Computerliebe" %}
+
+**[Dash Berlin with Cerf, Mitiska & Jaren](https://www.discogs.com/master/2382-Dash-Berlin-With-Cerf-Mitiska-Jaren-Man-On-The-Run){:target="_blank"}**
+- {% include ytplay.html id="jySYvf2fm68" t="Man on the Run" %} {% include remark.html c="vocal trance" %}
 
 **[Dave Edmunds](https://en.wikipedia.org/wiki/Dave_Edmunds){:target="_blank"}**
 - {% include ytplay.html id="hMjwb13TFCo" t="I Hear You Knocking" %}
 
-**[Dave Stewart](https://en.wikipedia.org/wiki/Dave_Stewart_(musician,_born_1950)){:target="_blank"} & [Barbara Gaskin](https://en.wikipedia.org/wiki/Barbara_Gaskin){:target="_blank"}**
-- {% include ytplay.html id="fUlcfF5Dnvc" t="It's My Party" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/It's_My_Party){:target=\"_blank\"}" %}
-
 **[Dave Stewart](https://en.wikipedia.org/wiki/Dave_Stewart_(Eurythmics)){:target="_blank"}**
 - {% include ytplay.html id="sBaKMpxw5_c" t="Heart of Stone" %}
+
+**[Dave Stewart](https://en.wikipedia.org/wiki/Dave_Stewart_(musician,_born_1950)){:target="_blank"} & [Barbara Gaskin](https://en.wikipedia.org/wiki/Barbara_Gaskin){:target="_blank"}**
+- {% include ytplay.html id="fUlcfF5Dnvc" t="It's My Party" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/It's_My_Party){:target=\"_blank\"}" %}
 
 **[David Bowie](https://en.wikipedia.org/wiki/David_Bowie){:target="_blank"}**
 - {% include ytplay.html id="VbD_kBJc_gI" t="Let's Dance" %}
@@ -73,6 +67,9 @@ summary: >
 **[Daylight Torn](https://www.discogs.com/artist/1629003-Daylight-Torn){:target="_blank"}**
 - {% include ytplay.html id="Ri3nJv3TQvM" t="Sebastian" %}
 
+**[Dee D. Jackson](https://en.wikipedia.org/wiki/Dee_D._Jackson){:target="_blank"}**
+- {% include ytplay.html id="nyR3L2owcA8" t="SOS (Love to the Rescue)" %}
+
 **[Deep Purple](https://en.wikipedia.org/wiki/Deep_Purple){:target="_blank"}**
 - {% include ytplay.html id="-Uwnnx6X2_A" t="Anya" %}
 - {% include ytplay.html id="FpA707p7w9A" t="Child in Time" %}
@@ -84,9 +81,6 @@ summary: >
 - {% include ytplay.html id="Pjy9MUjrjdI" t="The Gypsy" %}
 - {% include ytplay.html id="9_Iq9CWuqMM" t="When a Blind Man Cries" %}
 - {% include ytplay.html id="pE8fYd0FevI" t="You Keep On Moving" %}
-
-**[Dee D. Jackson](https://en.wikipedia.org/wiki/Dee_D._Jackson){:target="_blank"}**
-- {% include ytplay.html id="nyR3L2owcA8" t="SOS (Love to the Rescue)" %}
 
 **[Def Leppard](https://en.wikipedia.org/wiki/Def_Leppard){:target="_blank"}**
 - {% include ytplay.html id="0UIB9Y4OFPs" t="Pour Some Sugar On Me" %}
@@ -191,12 +185,21 @@ summary: >
 **[Dire Straits](https://en.wikipedia.org/wiki/Dire_Straits){:target="_blank"}**
 - {% include ytplay.html id="wTP2RUD_cL0" t="Money for Nothing" %}
 
-**[Donna Summer](https://en.wikipedia.org/wiki/Donna_Summer){:target="_blank"}**
-- {% include ytplay.html id="KhcaPNuaJNU" t="Hot Stuff" %}
-- {% include ytplay.html id="yEbaeLv-aOo" t="I Feel Love" %}
+**[DJ BoBo](https://en.wikipedia.org/wiki/DJ_BoBo){:target="_blank"}**
+- {% include ytplay.html id="rAnmLLRphqo" t="Somebody Dance with Me" %}
+
+**[DJ Gollum](https://www.discogs.com/artist/20436-DJ-Gollum){:target="_blank"}**
+- {% include ytplay.html id="dQZzVbcPPzA" t="Poison (DJ THT & Ced Tecknoboy Radio Edit)" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Poison_(Alice_Cooper_song)){:target=\"_blank\"}" %}
+
+**[DÖF](https://en.wikipedia.org/wiki/DÖF){:target="_blank"}**
+- {% include ytplay.html id="B6oRHCDPCCg" t="Codo" %}
 
 **[Don McLean](https://en.wikipedia.org/wiki/Don_McLean){:target="_blank"}**
 - {% include ytplay.html id="PRpiBpDy7MQ" t="American Pie" %}
+
+**[Donna Summer](https://en.wikipedia.org/wiki/Donna_Summer){:target="_blank"}**
+- {% include ytplay.html id="KhcaPNuaJNU" t="Hot Stuff" %}
+- {% include ytplay.html id="yEbaeLv-aOo" t="I Feel Love" %}
 
 **[Doris D & The Pins](https://en.wikipedia.org/wiki/Doris_D_&_The_Pins){:target="_blank"}**
 - {% include ytplay.html id="K_aBgOFjfnM" t="Shine Up" %}
@@ -224,6 +227,3 @@ summary: >
 **[Dusty Springfield](https://en.wikipedia.org/wiki/Dusty_Springfield){:target="_blank"}**
 - {% include ytplay.html id="CL7t22rypew" t="I Only Want to Be with You" %}
 - {% include ytplay.html id="QR4vE9xL3yk" t="You Don't Have to Say You Love Me" %}
-
-**[DÖF](https://en.wikipedia.org/wiki/DÖF){:target="_blank"}**
-- {% include ytplay.html id="B6oRHCDPCCg" t="Codo" %}

@@ -27,6 +27,14 @@ summary: >
 **[Carl Douglas](https://en.wikipedia.org/wiki/Carl_Douglas){:target="_blank"}**
 - {% include ytplay.html id="bmfudW7rbG0" t="Kung Fu Fighting" %}
 
+**[C+C Music Factory](https://en.wikipedia.org/wiki/C+C_Music_Factory){:target="_blank"}**
+- {% include ytplay.html id="LaTGrV58wec" t="Gonna Make You Sweat (Everybody Dance Now)" %}
+
+**[C. C. Catch](https://en.wikipedia.org/wiki/C.C.Catch){:target="_blank"}**
+- {% include ytplay.html id="tJr00fzBCFM" t="Heaven and Hell" %}
+- {% include ytplay.html id="5pLTRK7BEjw" t="I Can Lose My Heart Tonight" %}
+- {% include ytplay.html id="RZfPLT5m1xc" t="Strangers by Night" %}
+
 **[Celine Dion](https://en.wikipedia.org/wiki/Celine_Dion){:target="_blank"}**
 - {% include ytplay.html id="9bFHsd3o1w0" t="My Heart Will Go On" %}
 - {% include ytplay.html id="Y8HOfcYWZoo" t="Power of Love" %}
@@ -37,6 +45,9 @@ summary: >
 
 **[Chad Kroeger](https://en.wikipedia.org/wiki/Chad_Kroeger){:target="_blank"} feat. [Josey Scott](https://en.wikipedia.org/wiki/Josey_Scott){:target="_blank"}**
 - {% include ytplay.html id="TmSRMWw8Y_0" t="Hero" %}
+
+**[Chaim Topol](https://en.wikipedia.org/wiki/Chaim_Topol){:target="_blank"}**
+- {% include ytplay.html id="RBHZFYpQ6nc" t="If I Were a Rich Man (Fiddler on the Roof)" %}
 
 **[Charles Aznavour](https://en.wikipedia.org/wiki/Charles_Aznavour){:target="_blank"}**
 - {% include ytplay.html id="fVfnEyLOkrM" t="La Bohème" %}
@@ -49,22 +60,22 @@ summary: >
 - {% include ytplay.html id="ki4Lbjnwqio" t="London" %}
 - {% include ytplay.html id="8iu9y7udf2I" t="The Secret Garden" %}
 
-**[Cherry Laine](https://en.wikipedia.org/wiki/Cherry_Laine){:target="_blank"}**
-- {% include ytplay.html id="rBhJrQCH4aY" t="Mamy Blue" %}
-
 **[Cher](https://en.wikipedia.org/wiki/Cher){:target="_blank"}**
 - {% include ytplay.html id="nZXRV4MezEw" t="Believe" %}
 - {% include ytplay.html id="tXOgmvZyzxk" t="Strong Enough" %}
 - {% include ytplay.html id="ZM5qIJdBtX0" t="The Shoop Shoop Song (It's in His Kiss)" %}
+
+**[Cherry Laine](https://en.wikipedia.org/wiki/Cherry_Laine){:target="_blank"}**
+- {% include ytplay.html id="rBhJrQCH4aY" t="Mamy Blue" %}
+
+**[Chic](https://en.wikipedia.org/wiki/Chic_(band)){:target="_blank"}**
+- {% include ytplay.html id="aXgSHL7efKg" t="Le Freak" %}
 
 **[Chicago](https://en.wikipedia.org/wiki/Chicago_(band)){:target="_blank"}**
 - {% include ytplay.html id="8A3HZvGN0qs" t="25 or 6 to 4" %}
 - {% include ytplay.html id="1A0MPWseJIE" t="Hard to Say I'm Sorry" %}
 - {% include ytplay.html id="-9_d-sFhmRM" t="If You Leave Me Now" %}
 - {% include ytplay.html id="Zv0OwvsP0ek" t="Wishing You Were Here" %}
-
-**[Chic](https://en.wikipedia.org/wiki/Chic_(band)){:target="_blank"}**
-- {% include ytplay.html id="aXgSHL7efKg" t="Le Freak" %}
 
 **[Chilly](https://en.wikipedia.org/wiki/Chilly_(band)){:target="_blank"}**
 - {% include ytplay.html id="MmyAO7eSVhY" t="Dance with Me" %}
@@ -77,15 +88,6 @@ summary: >
 - {% include ytplay.html id="2b6TMB1A0Vc" t="Springtime" %}
 - {% include ytplay.html id="3jYT1jFtxoE" t="Sunshine of Your Love" %}
 - {% include ytplay.html id="4AnqiFdJQiY" t="We are the Popkings" %}
-
-**[Christie](https://en.wikipedia.org/wiki/Christie_(band)){:target="_blank"}**
-- {% include ytplay.html id="qJ5-FoiBuVc" t="Yellow River" %}
-
-**[Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera){:target="_blank"}**
-- {% include ytplay.html id="kIDWgqDBNXA" t="Genie in a Bottle" %}
-
-**Christina Aguilera, Mýa, Pink, Lil' Kim**
-- {% include ytplay.html id="RQa7SvVCdZk" t="Lady Marmalade" %}
 
 **[Chris de Burgh](https://en.wikipedia.org/wiki/Chris_De_Burgh){:target="_blank"}**
 - {% include ytplay.html id="GmZg7tvGN9o" t="A Spaceman Came Travelling" %}
@@ -110,6 +112,15 @@ summary: >
 - {% include ytplay.html id="A8a6kHQN9BA" t="Looking for the Summer" %}
 - {% include ytplay.html id="-yXVufG5oV0" t="On the Beach" %}
 - {% include ytplay.html id="JoXIqF1wI-g" t="The Road to Hell" %}
+
+**[Christie](https://en.wikipedia.org/wiki/Christie_(band)){:target="_blank"}**
+- {% include ytplay.html id="qJ5-FoiBuVc" t="Yellow River" %}
+
+**[Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera){:target="_blank"}**
+- {% include ytplay.html id="kIDWgqDBNXA" t="Genie in a Bottle" %}
+
+**Christina Aguilera, Mýa, Pink, Lil' Kim**
+- {% include ytplay.html id="RQa7SvVCdZk" t="Lady Marmalade" %}
 
 **[Chuck Berry](https://en.wikipedia.org/wiki/Chuck_Berry){:target="_blank"}**
 - {% include ytplay.html id="Y-9Y4CCIWnM" t="Johnny B. Goode" %}
@@ -171,11 +182,3 @@ summary: >
 - {% include ytplay.html id="PIb6AZdTr-A" t="Girls Just Want to Have Fun" %}
 - {% include ytplay.html id="CaqeAABlH3Q" t="Hey Now" %}
 - {% include ytplay.html id="VdQY7BusJNU" t="Time After Time" %}
-
-**[C+C Music Factory](https://en.wikipedia.org/wiki/C+C_Music_Factory){:target="_blank"}**
-- {% include ytplay.html id="LaTGrV58wec" t="Gonna Make You Sweat (Everybody Dance Now)" %}
-
-**[C. C. Catch](https://en.wikipedia.org/wiki/C.C.Catch){:target="_blank"}**
-- {% include ytplay.html id="tJr00fzBCFM" t="Heaven and Hell" %}
-- {% include ytplay.html id="5pLTRK7BEjw" t="I Can Lose My Heart Tonight" %}
-- {% include ytplay.html id="RZfPLT5m1xc" t="Strangers by Night" %}

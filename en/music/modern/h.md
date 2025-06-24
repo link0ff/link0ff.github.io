@@ -5,10 +5,6 @@ summary: >
   Heath Hunter & The Pleasure Company, Herman's Hermits,
   Hermes House Band, Herve Roy, Huey Lewis and the News
 ---
-**[HIM](https://en.wikipedia.org/wiki/HIM_(Finnish_band)){:target="_blank"}**
-- {% include ytplay.html id="1V4AscLidWg" t="Join Me in Death" %}
-- {% include ytplay.html id="8oYodfK4DkE" t="Wicked Game" %}
-
 **[Haddaway](https://en.wikipedia.org/wiki/Haddaway){:target="_blank"}**
 - {% include ytplay.html id="AXL_3LfCpUg" t="Life (Radio Mix)" %}
 - {% include ytplay.html id="HEXWRTEbj1I" t="What is Love" %}
@@ -36,6 +32,10 @@ summary: >
 
 **[Herve Roy](https://en.wikipedia.org/wiki/Herve_Roy){:target="_blank"}**
 - {% include ytplay.html id="yWdNnJd4X9c" t="Emmanuelle" %}
+
+**[HIM](https://en.wikipedia.org/wiki/HIM_(Finnish_band)){:target="_blank"}**
+- {% include ytplay.html id="1V4AscLidWg" t="Join Me in Death" %}
+- {% include ytplay.html id="8oYodfK4DkE" t="Wicked Game" %}
 
 **[Huey Lewis and the News](https://en.wikipedia.org/wiki/Huey_Lewis_and_the_News){:target="_blank"}**
 - {% include ytplay.html id="wBl2QGAIx1s" t="The Power of Love" %}
