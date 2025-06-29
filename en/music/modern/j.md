@@ -43,7 +43,7 @@ summary: >
 - {% include ytplay.html id="TjUhXbGdLYo" t="Porque te vas" %}
 
 **[Jeanette Biedermann](https://en.wikipedia.org/wiki/Jeanette_Biedermann){:target="_blank"}**
-- {% include ytplay.html id="GnBcde-9X9Q" t="How Its Got to Be" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Swan_Lake){:target=\"_blank\"}" %}
+- {% include ytplay.html id="GnBcde-9X9Q" t="How It's Got to Be" %} {% include remark.html c="[cover](https://en.wikipedia.org/wiki/Swan_Lake){:target=\"_blank\"}" %}
 
 **[Jefferson Airplane](https://en.wikipedia.org/wiki/Jefferson_Airplane){:target="_blank"}**
 - {% include ytplay.html id="SrGSt5eDt9o" t="Somebody to Love" %}

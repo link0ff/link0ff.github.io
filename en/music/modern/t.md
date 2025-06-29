@@ -318,6 +318,9 @@ summary: >
 **[The Verve](https://en.wikipedia.org/wiki/The_Verve){:target="_blank"}**
 - {% include ytplay.html id="1lyu1KKwC74" t="Bitter Sweet Symphony" %}
 
+**[The Weather Girls](https://en.wikipedia.org/wiki/The_Weather_Girls){:target="_blank"}**
+- {% include ytplay.html id="l5aZJBLAu1E" t="It's Raining Men" %}
+
 **[The Yardbirds](https://en.wikipedia.org/wiki/The_Yardbirds){:target="_blank"}**
 - {% include ytplay.html id="HU5zqidlxMQ" t="For Your Love" %}
 
