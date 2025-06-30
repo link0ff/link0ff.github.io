@@ -55,7 +55,7 @@ summary: >
 - {% include ytplay.html id="Yem_iEHiyJ0" t="Relax" %}
 
 **[Frankie Valli](https://en.wikipedia.org/wiki/Frankie_Valli){:target="_blank"} and [the Four Seasons](https://en.wikipedia.org/wiki/The_Four_Seasons_(band)){:target="_blank"}**
-- {% include ytplay.html id="J36z7AnhvOM" t="Can't Take My Eyes Off of You" %}
+- {% include ytplay.html id="J36z7AnhvOM" t="Can't Take My Eyes Off You" %}
 
 **[F. R. David](https://en.wikipedia.org/wiki/F._R._David){:target="_blank"}**
 - {% include ytplay.html id="PTsSk0r_Tq8" t="Words" %}

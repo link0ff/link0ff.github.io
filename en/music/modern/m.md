@@ -142,6 +142,9 @@ summary: >
 - {% include ytplay.html id="sW8574GA06A" t="Sacramento" %}
 - {% include ytplay.html id="SQJX8bvUOss" t="Samson and Delilah" %}
 
+**[Mieczysław Fogg](https://en.wikipedia.org/wiki/Mieczysław_Fogg){:target="_blank"}**
+- {% include ytplay.html id="NqmGo3KFp2s" t="To ostatnia niedziela" %}
+
 **[Mike Oldfield](https://en.wikipedia.org/wiki/Mike_Oldfield){:target="_blank"}**
 - {% include ytplay.html id="e80qhyovOnA" t="Moonlight Shadow" %} (with [Maggie Reilly](https://en.wikipedia.org/wiki/Maggie_Reilly){:target="_blank"})
 - {% include ytplay.html id="_euDhMDDRq4" t="Shadow on the Wall" %}
