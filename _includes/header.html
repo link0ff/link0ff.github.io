@@ -1,9 +1,9 @@
 <header class="bg-[#5b2a85] text-white p-1 xl:pl-4 w-full shadow flex items-center justify-between fixed top-0 z-50">
-  <button @click="leftSidebarOpen = !leftSidebarOpen" class="focus:outline-none xl:hidden cursor-pointer">
+  <div @click="leftSidebarOpen = !leftSidebarOpen" class="focus:outline-none xl:hidden cursor-pointer">
     <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
     </svg>
-  </button>
+  </div>
   <a href="/" class="flex items-center">
     <img src="/logo.png" alt="linkov.net logo" class="w-8 h-auto rounded-full mr-2" />
     <span class="text-xl font-bold">linkov.net</span>
@@ -17,10 +17,10 @@
       {%- endfor -%}
     </ul>
     {%- endif -%}
-    <button @click="rightSidebarOpen = !rightSidebarOpen" class="focus:outline-none xl:hidden cursor-pointer">
+    <div @click="rightSidebarOpen = !rightSidebarOpen" class="focus:outline-none xl:hidden cursor-pointer">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v.01M12 12v.01M12 19v.01M12 6a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2z" />
       </svg>
-    </button>
+    </div>
   </div>
 </header>

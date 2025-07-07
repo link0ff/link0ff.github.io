@@ -2,9 +2,9 @@
 {%- for item in include.nav -%}
   {% if item.nav %}
   <li x-data="{ open: {% if page.url contains item.url %}true{% else %}false{% endif %} }" class="rounded overflow-hidden">
-    <div @click.stop="open = !open"
+    <div @click.prevent.stop="open = !open"
       class="flex justify-between items-center p-2 hover:bg-gray-200 dark:hover:bg-gray-800 cursor-pointer {% if item.url == page.url %} bg-gray-200 dark:bg-gray-800{% endif %}">
-      <span>{{ item.title }}</span>
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
       <svg :class="open ? 'transform rotate-90' : ''" class="w-5 h-5 transition-transform duration-200">
         <use href="#arrow-icon"></use>
       </svg>
